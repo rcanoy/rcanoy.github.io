@@ -18,20 +18,10 @@
           <td><b>Korea University</b>, Seoul, South Korea
           <ul>
             <li><b>Master of Engineering in Biomicrosystem Engineering</b>. GPA: 4.31/4.50</li>
+            <li><b>Thesis Title:</b> An assessment of a split-spectrum-based functional Optical Coherence Microscope technique as a quantitive tool to monitor cellular behaviors.</li>
+            <li><b>Thesis Advisor:</b> Professor Beop-Min Kim, PhD</li>
           </ul>
           </td>
-        </tr>
-        <tr>
-          <td> </td>
-          <td><b>Master of Engineering in Biomicrosystem Engineering</b>. GPA: 4.31/4.50.</td>
-        </tr>
-        <tr>
-          <td> </td>
-          <td><b>Thesis Title:</b> An assessment of a split-spectrum-based functional Optical Coherence Microscope technique as a quantitative tool to monitor celluar behaviors.</td>
-        </tr>
-        <tr>
-          <td> </td>
-          <td><b>Thesis Advisor: </b> Professor Beop-Min Kim, PhD</td>
         </tr>
         <tr>
           <td>2019-2020</td>
