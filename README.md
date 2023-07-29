@@ -9,9 +9,6 @@
   <h2>
     Home
   </h2>
-
-
-
     <h3>
       Education
     </h3>
@@ -73,27 +70,15 @@
           <td><b>Thesis Advisor:</b> Professor Hope M. Bandal, PhD.</td>
         </tr>
       </table>
-
-
-
     <h3>
       Research Experience
     </h3>
-
-
-
     <h3>
       Work Experience
     </h3>
-
-
-
     <h3>
       Skills
     </h3>
-
-
-
     <h3>
       Languages
     </h3>
@@ -103,9 +88,7 @@
       <li>English</li>
       <li>Korean</li>
     </ul>
-
-
-
+    
 </p>
 
 <p>
