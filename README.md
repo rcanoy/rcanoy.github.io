@@ -52,7 +52,7 @@
           </td>
         </tr>
       </table>
-    <h3>
+    <h3 style="color: rgb(163,31,52)">
       Research Experience
     </h3>
     <h3>
