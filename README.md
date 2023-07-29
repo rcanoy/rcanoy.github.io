@@ -6,10 +6,10 @@
 </p>
 
 <p>
-  <h2 style="color: 8a8b8c;">
+  <h2 style="color: rgb(138,139,140)">
     Home
   </h2>
-    <h3>
+    <h3 style="color: rgb(163,31,52)">
       Education
     </h3>
       <table>
