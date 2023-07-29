@@ -15,7 +15,11 @@
       <table>
         <tr>
           <td>2020-2022</td>
-          <td><b>Korea University</b>, Seoul, South Korea</td>
+          <td><b>Korea University</b>, Seoul, South Korea
+          <ul>
+            <li><b>Master of Engineering in Biomicrosystem Engineering</b>. GPA: 4.31/4.50</li>
+          </ul>
+          </td>
         </tr>
         <tr>
           <td> </td>
