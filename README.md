@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h2>
+  <h2 style="color: 8a8b8c;">
     Home
   </h2>
     <h3>
