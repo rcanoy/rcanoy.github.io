@@ -184,4 +184,29 @@
       </tr>
     </table>
   </p>
+  <p>
+    <h3 style="color: rgb(163,31,52)">
+      2018
+    </h3>
+      <table>
+        <tr>
+          <td>Jun 2018</td>
+          <td><b>36th Samahang Pisika ng Pilipinas International Physics Conference and Annual Meeting</b>, Puerto Princesa, Palawan, Philippines<br>
+          <b>Poster Presentation</b>
+          <ul>
+          <li><b>RJE Canoy</b>, & FNC Paraan. "Average work done in a ground state quantum quench of the Kitaev chain model with variable-range interactions," <a href="https://proceedings.spp-online.org/article/view/SPP-2018-PC-18"><i>Proceedings of the Samahang Pisika ng Pilipinas, <b>36</b></i>, SPP-2018-PC-18<a> (Puerto Princesa City, Palawan, Philippines, 2018).<li>
+          </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>Jun 2018</td>
+          <td><b>ASTHRDP Graduate Scholars' Conference Year 7</b>, PICC, Pasay City, Philippines<br>
+          <b>Oral Presentation</b>
+          <ul>
+          <li><b>RJE Canoy</b>, & FNC Paraan. "Characterization of a ground state quantum quench of the Kitaev chain model with variable-range interactions using work statistics," <i>ASTHRDP Graduate Scholars' Conference<i>, F3-2 (PICC, Pasay City, Philippines, 2018).</li>
+          </ul>
+          </td>
+        </tr>
+      </table>
+  </p>
 </p>
