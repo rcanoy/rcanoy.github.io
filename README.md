@@ -1,11 +1,8 @@
-<body>
 <p align='center'>
   <h1 align='center'>
     Raymart Jay Canoy<br>
   </h1>
 </p>
-
-<p>
   <h2 style="color: rgb(138,139,140)">
     Home
   </h2>
@@ -51,9 +48,7 @@
             </ul>
           </td>
         </tr>
-      </table>
-  </p>    
-  <p>
+      </table>    
     <h3 style="color: rgb(163,31,52)">
       Research Experience
     </h3>
@@ -68,5 +63,3 @@
           </td>
         </tr>
       </table>
-  </p>
-</body>
