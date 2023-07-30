@@ -57,5 +57,16 @@
     <h3 style="color: rgb(163,31,52)">
       Research Experience
     </h3>
+      <table>
+        <tr> 
+          <td>2020-2022<td>
+          <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory, Korea University, Seoul, South Korea<br>
+          <b>Supervisor:</b> Professor Beop-Min Kim, PhD
+            <ul>
+            <li>Developed an image processing and dispersion compensation pipeline in MATLAB to provide the functionality to a custom-made spectral-domain Optical Coherence Microscope (SD-OCM) systm to elucidate the effects of biochemical inhibitors on intracellular mmotility, an indicator of the physiological characteristics of biological organisms</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
   </p>
 </body>
