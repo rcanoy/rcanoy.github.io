@@ -131,7 +131,7 @@
   </p>
 </p>
 <p>
-  <h2 stype="color: rgb(138,139,140)">
+  <h2 style="color: rgb(138,139,140)">
     Publications
   </h2>
   <p>
@@ -241,7 +241,7 @@
   <p>
     <h3 style="color:rgb(163,31,52)">
       2017
-    <h3>
+    </h3>
       <table style="width:100%">
         <tr>
           <td>May 2017</td>
