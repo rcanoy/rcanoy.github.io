@@ -81,8 +81,51 @@
       </table>
 </p>
 <p>
-  <h3 style="color: rgb(163, 31, 52)">
-    Teaching Experience
-  </h3>
+    <h3 style="color: rgb(163, 31, 52)">
+      Teaching Experience
+    </h3>
+      <table>
+        <tr>
+        <td>2018-2019</td>
+        <td><b>Full Time Mentor</b>, MAGIS Academic Mentors Tutorial Services, Quezon City, Philippines
+        <ul>
+        <li>Tutored both struggling and gifted students to help them reach their full potential by supplementing the lessons they receive in class and home school, and guiding them toward study practices that can help them excel</li>
+        <li>Taught general physics, general chemistry, statistics, college algebra, and differential and integral calculus</li>
+        </ul>
+        </td>
+        </tr>
+      </table>
+</p>
+<p>
+    <h3 style="color: rgb(163, 31, 52)">
+      Work Experience
+    </h3>
+      <table>
+        <tr>
+        <td>2012-2015</td>
+        <td><b>Student Assistant</b>, Purchasing Section, Business and Finance Office, Silliman University, Dumaguete City, Philippines.
+        <ul>
+        <li>Received requisitions from various departments of Silliman University, Dumaguete City, Philippines</li>
+        <li>Canvassed prices and processed the purchasing orders of the requested supplies</li>
+        </ul>
+        </td>
+        </tr>
+        <tr>
+        <td>2013-2014</td>
+        <td><b>Laboratory Assistant (Part Time), Physics Department, Silliman University, Dumaguete City, Philippines</b>
+        <ul>
+        <li>Supervised the laboratory activities of the general physics courses</li>
+        </ul>
+        </td>
+        </tr>
+        <tr>
+        <td>2011-2012</td>
+        <td><b>Student Assistant</b>, Dean's Office, College of Nursing, Silliman University, Dumaguete City, Philippines
+        <td>
+        <ul>
+        <li>Assisted the Dean's secretary, faculty and staff in all office works</li>
+        </ul>
+        </tr>
+      </table>
 </p>
 
