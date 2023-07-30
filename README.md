@@ -58,7 +58,9 @@
       <table>
         <tr>
           <td>2020-2022</td>
-          <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory, Korea University, Seoul, Republic of Korea</td>
+          <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory, Korea University, Seoul, Republic of Korea<br>
+          <b>Supervisor:</b> Professor Beop-Min Kim, PhD
+          </td>
         </tr>
       </table>
 </p>
