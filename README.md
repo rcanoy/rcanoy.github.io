@@ -180,7 +180,6 @@
       <ul>
       <li><b>RJE Canoy</b>, YG Kang, YD Park, & BM Kim. "Dynamic contrast enhancement for functional OCM imaging," <i>제32회 한국광학회 정기총회 및 2021 동계학술발표회</i>, WP-VI-8 (Virtual Conference, 2021).</li>
       </ul>
-
       </td>
       </tr>
     </table>
