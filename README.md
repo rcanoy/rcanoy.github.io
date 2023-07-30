@@ -137,7 +137,7 @@
   <p>
   <h3 style="color: rgb(163,31,52)">
     Peer-reviewed Articles
-  <h3>
+  </h3>
     <table style="width:100%">
       <tr>
       <td>2023</td>
