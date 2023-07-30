@@ -10,7 +10,7 @@
     <h3 style="color: rgb(163,31,52)">
       Education
     </h3>
-      <table>
+      <table style="width:100%">
         <tr>
           <td>2020-2022</td>
           <td><b>Korea University</b>, Seoul, South Korea
@@ -55,7 +55,7 @@
     <h3 style="color: rgb(163,31,52)">
       Research Experience
     </h3>
-      <table>
+      <table style="width:100%">
         <tr>
           <td>2020-2022</td>
           <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory, Korea University, Seoul, Republic of Korea<br>
@@ -84,7 +84,7 @@
     <h3 style="color: rgb(163, 31, 52)">
       Teaching Experience
     </h3>
-      <table>
+      <table style="width:100%">
         <tr>
         <td>2018-2019</td>
         <td><b>Full Time Mentor</b>, MAGIS Academic Mentors Tutorial Services, Quezon City, Philippines
@@ -100,7 +100,7 @@
     <h3 style="color: rgb(163, 31, 52)">
       Work Experience
     </h3>
-      <table>
+      <table style="width:100%">
         <tr>
         <td>2012-2015</td>
         <td><b>Student Assistant</b>, Purchasing Section, Business and Finance Office, Silliman University, Dumaguete City, Philippines.
