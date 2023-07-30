@@ -55,7 +55,7 @@
     <h3 style="color: rgb(163,31,52)">
       Research Experience
     </h3>
-      <table>
+      <table text-align: justify>
         <tr>
           <td>2020-2022</td>
           <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory, Korea University, Seoul, Republic of Korea<br>
