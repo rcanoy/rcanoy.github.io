@@ -133,7 +133,7 @@
 <p>
   <h2 stype="color: rgb(138,139,140)">
     Publications
-  <h2>
+  </h2>
   <p>
   <h3 style="color: rgb(163,31,52)">
     Peer-reviewed Articles
