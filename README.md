@@ -55,19 +55,34 @@
     <h3 style="color: rgb(163,31,52)">
       Research Experience
     </h3>
-      <table text-align: justify>
+      <table style="text-align: justify; text-justify: inter-word">
         <tr>
           <td>2020-2022</td>
           <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory, Korea University, Seoul, Republic of Korea<br>
           <b>Supervisor:</b> Professor Beop-Min Kim, PhD
           <ul>
-          <li>Developed an image processing and dispersion compensation pipeline in MATLAB to provide thee functionality to a custom-made spectral-domain Optical Coherence Microscoope (SD-OCM) system to elucidate the effects of biochemical inhibitors on intracellular motility, an indicator of the physiological characteristics of biological organisms</li>
+          <li>Developed an image processing and dispersion compensation pipeline in MATLAB to provide the functionality to a custom-made spectral-domain Optical Coherence Microscoope (SD-OCM) system to elucidate the effects of biochemical inhibitors on intracellular motility, an indicator of the physiological characteristics of biological organisms</li>
           <li>Prepared both free-edged and confined human mesenchymal stem cell cultures, Madin-Darby canine kidney cell cultures, and cardiac fibroblast cell cultures</li>
           <li>Performed cell-culture imaging using the custom-made SD-OCM system</li>
           <li>Assisted in preparing and writing up the results of this project for publication in a peer-reviewed journal</li>
           </ul>
           </td>
         </tr>
+        <tr>
+          <td>2016-2018</td>
+          <td><b>Graduate Student</b>, Structure and Dynamics Group, National Institute of Physics, University of the Philippines Diliman, Quezon City, Philippines<br>
+          <b>Supervisor:</b> Professor Francis Norman C. Paraan
+          <ul>
+          <li>Derived the work statistics of the quenched Kitaev chain model with long-range interactions</li>
+          <li>Submitted and presented the results at a peer-reviewed conference</li>
+          </ul>
+          </td>
+        </tr>
       </table>
+</p>
+<p>
+  <h3 style="color: rgb(163, 31, 52)">
+    Teaching Experience
+  </h3>
 </p>
 
