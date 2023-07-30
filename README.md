@@ -131,6 +131,35 @@
   </p>
 </p>
 <p>
+  <h2 stype="color: rgb(138,139,140)">
+    Publications
+  <h2>
+  <p>
+  <h3 style="color: rgb(163,31,52)">
+    Peer-reviewed Articles
+  <h3>
+    <table style="width:100%">
+      <tr>
+      <td>2023</td>
+      <td>YG Kang, <b>RJE Canoy</b>, Y Jang, ARMP Santos, I Son, BM Kim, and Y Park. "Optical coherence microscopy with a split-spectrum image reconstruction method for temporal-dynamics contrast-based imaging of intracellular motility," <i>Biomed. Opt. Express</i> <b>14</b>, 2 (2023); <a href="https://doi.org/10.1364/BOE.478264">https://doi.org/10.1364/BOE.478264</a>
+      </td>
+      </tr>
+    </table>
+  </p>
+  <p>
+  <h3 style="color: rgb(163,31,52)">
+    Review Articles
+  </h3>
+    <table style="width:100%">
+      <tr>
+      <td>2023</td>
+      <td>Z Phillips, <b>RJ Canoy</b>, S Paik, SH Lee, and BM Kim. "Functional near-infrared spectroscopy as a personalized digital healthcare tool for brain monitoring," <i>J. Clin. Neurol.</i> <b>19</b>, 2:115-124 (2023); <a href="https://doi.org/10.3988/jcn.2022.0406">https://doi.org/10.3988/jcn.2022.0406</a>
+      </td>
+      </tr>
+    </table>
+  </p>
+</p>
+<p>
   <h2 style="color: rgb(138,139,140)">
     Conference Presentations
   </h2>
@@ -219,7 +248,7 @@
           <td><b>2nd International Science Graduate Scholars' Conference</b>, PICC, Pasay City, Philippines<br>
           <b>Poster Presentation</b>
           <ul>
-          <b>RJE Canoy</b>, & FNC Paraan. "Block purity in a long-range Kitaev chain," <i>2nd International Graduate Scholars' Conference</i>, 153 (PICC, Pasay City, Philippines, 2017).
+          <li><b>RJE Canoy</b>, & FNC Paraan. "Block purity in a long-range Kitaev chain," <i>2nd International Graduate Scholars' Conference</i>, 153 (PICC, Pasay City, Philippines, 2017).</li>
           </ul>
           </td>
         </tr>
