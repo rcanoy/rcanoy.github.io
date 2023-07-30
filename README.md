@@ -209,4 +209,20 @@
         </tr>
       </table>
   </p>
+  <p>
+    <h3 style="color:rgb(163,31,52)">
+      2017
+    <h3>
+      <table style="width:100%">
+        <tr>
+          <td>May 2017</td>
+          <td><b>2nd International Science Graduate Scholars' Conference</b>, PICC, Pasay City, Philippines<br>
+          <b>Poster Presentation</b>
+          <ul>
+          <b>RJE Canoy</b>, & FNC Paraan. "Block purity in a long-range Kitaev chain," <i>2nd International Graduate Scholars' Conference</i>, 153 (PICC, Pasay City, Philippines, 2017).
+          </ul>
+          </td>
+        </tr>
+      </table>
+  </p>
 </p>
