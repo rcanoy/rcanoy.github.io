@@ -54,6 +54,7 @@
       </table>
     <h3 style="color: rgb(163,31,52)">
       Research Experience
+    </h3>
       <table>
       <tr>
       <td>2020-2022</td>
@@ -69,7 +70,6 @@
       <td>
       </tr>
       </table>
-    </h3>
     <h3>
       Work Experience
     </h3>
