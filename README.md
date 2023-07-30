@@ -138,11 +138,14 @@
   <h3 style="colo: rgb(163, 31, 52)">
     2022
   </h3>
-    <table>
+    <table syle="width:100%">
       <tr>
       <td>Jan 2022</td>
       <td><b>SPIE BiOS 2022</b>, San Francisco, California, United States of America<br>
       <b>Poster Presentation</b><br>
+      <ul>
+      <li>Yong Guk Kang, <b>Raymart Jay Canoy</b>, Yongdoo Park, and Beop-Min Kim. "Time-lapse monitoring of biomedical specimens with temporal dynamic contrast optical coherence microscopy," <i>Proc. SPIE PC11972</i>, Label-free Biomedical Imaging and Sensing (LBIS) 2022, PC1197219 (2 March 2022); <a href="https://doi.org/10.1117/12.2608126">https://doi.org/10.1117/12.2608126</a></li>
+      </ul>
       </td>
       </tr>
     </table>
