@@ -121,10 +121,10 @@
         <tr>
         <td>2011-2012</td>
         <td><b>Student Assistant</b>, Dean's Office, College of Nursing, Silliman University, Dumaguete City, Philippines
-        <td>
         <ul>
         <li>Assisted the Dean's secretary, faculty and staff in all office works</li>
         </ul>
+        </td>
         </tr>
       </table>
 </p>
