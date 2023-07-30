@@ -135,7 +135,7 @@
     Conference Presentations
   </h2>
   <p>
-  <h3 style="colo: rgb(163, 31, 52)">
+  <h3 style="color: rgb(163, 31, 52)">
     2022
   </h3>
     <table syle="width:100%">
@@ -146,6 +146,41 @@
       <ul>
       <li>Yong Guk Kang, <b>Raymart Jay Canoy</b>, Yongdoo Park, and Beop-Min Kim. "Time-lapse monitoring of biomedical specimens with temporal dynamic contrast optical coherence microscopy," <i>Proc. SPIE PC11972</i>, Label-free Biomedical Imaging and Sensing (LBIS) 2022, PC1197219 (2 March 2022); <a href="https://doi.org/10.1117/12.2608126">https://doi.org/10.1117/12.2608126</a></li>
       </ul>
+      </td>
+      </tr>
+    </table>
+  </p>
+  <p>
+  <h2 style="color:rgb(163,31,52)">
+    2021
+  </h2>
+    <table style="width:100%">
+      <tr>
+      <td>Nov 2021</td>
+      <td><b>SPIE Advanced Biophotonics Conference 2021</b>, Busan, South Korea<br>
+      <b>Flash Session Presentation</b>
+      <ul>
+      <li><b>RJE Canoy</b>, YG Kang, YD Park, & BM Kim. "Temporal dynamic imaging using split-spectrum method for functional OCM imaging," <i>SPIE Advanced Biophotonics Conference 2021</i>, P0008, (Paradise Hotel, Busan, South Korea, 2021).</li>
+      </ul>
+      <td>
+      </tr>
+      <tr>
+      <td>Jul 2021</td>
+      <td><b>Optics and Photonics Congress 2021</b>, Jeju, South Korea<br>
+      <b>Poster Presentation</b><br>
+      <ul>
+      <li><b>RJE Canoy</b>, YG Kang, YD Park, & BM Kim, "Dynamic contrast enhancement of OCM images for cell and ECM delineation," <i>Optics and Photonics Congress 2021</i>, MP-VI.012 (ICC, Jeju, South Korea, 2021).</li>
+      </ul>
+      </td>
+      </tr>
+      <tr>
+      <td>Feb 2021</td>
+      <td><b>제32회 한국광학회 정기총회 및 2021 동계학술발표회</b>, Virtual Conference<br>
+      <b>Poster Presentation</b>
+      <ul>
+      <li><b>RJE Canoy</b>, YG Kang, YD Park, & BM Kim. "Dynamic contrast enhancement for functional OCM imaging," <i>제32회 한국광학회 정기총회 및 2021 동계학술발표회</i>, WP-VI-8 (Virtual Conference, 2021).</li>
+      </ul>
+
       </td>
       </tr>
     </table>
