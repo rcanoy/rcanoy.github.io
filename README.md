@@ -7,6 +7,7 @@
   <h2 style="color: rgb(138,139,140)">
     Home
   </h2>
+  <p>
     <h3 style="color: rgb(163,31,52)">
       Education
     </h3>
@@ -50,8 +51,8 @@
           </td>
         </tr>
       </table>
-</p>
-<p>
+  </p>
+  <p>
     <h3 style="color: rgb(163,31,52)">
       Research Experience
     </h3>
@@ -79,8 +80,8 @@
           </td>
         </tr>
       </table>
-</p>
-<p>
+  </p>
+  <p>
     <h3 style="color: rgb(163, 31, 52)">
       Teaching Experience
     </h3>
@@ -95,8 +96,8 @@
         </td>
         </tr>
       </table>
-</p>
-<p>
+  </p>
+  <p>
     <h3 style="color: rgb(163, 31, 52)">
       Work Experience
     </h3>
@@ -127,5 +128,7 @@
         </td>
         </tr>
       </table>
+  </p>
 </p>
-
+<p>
+</p>
