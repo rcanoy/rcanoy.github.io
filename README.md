@@ -4,7 +4,7 @@
       Raymart Jay Canoy<br>
     </h1>
     <h3 align='center'>
-      <a href="mailto: recanoy@alum.up.edu.ph">recano@alum.up.edu.ph<a>
+      <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a>
     </h3>
   </p>
   <p>
