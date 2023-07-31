@@ -302,7 +302,7 @@
         <td>2018</td>
         <td>
           <ul>
-            <li><b>Introduction to the Biolog of Cancer (with Honors)</b>, <a href="https://www.coursera.org/account/accomplishments/certificate/L8BU8W5CUJB4">Coursera - Johns Hopkins University</a><li>
+            <li><b>Introduction to the Biolog of Cancer (with Honors)</b>, <a href="https://www.coursera.org/account/accomplishments/certificate/L8BU8W5CUJB4">Coursera - Johns Hopkins University</a></li>
             <li><b>Understanding Cancer Metastasis, </b><a href="https://www.coursera.org/account/accomplishments/certificate/KAQQFFTDHEEA">Coursera - Johns Hopkins University</a></li>
           </ul>
         </td>
