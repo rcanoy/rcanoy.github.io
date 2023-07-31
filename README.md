@@ -1,5 +1,5 @@
 <body style="background-color:white">
-  <p align='center'>
+  <p style="line-height:100%">
     <h1 align='center'>
       Raymart Jay Canoy<br>
     </h1>
