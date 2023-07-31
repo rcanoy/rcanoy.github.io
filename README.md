@@ -255,3 +255,27 @@
       </table>
   </p>
 </p>
+<p>
+  <h2 style="color:rgb(138,139,140)">
+  </h2>
+  <p>
+    <table>
+      <tr>
+        <td>2023</td>
+        <td>
+          <ul>
+            <li>Fundamentals of RT-qPCR Course 1: Introduction to RT-qPCR and Gene Expression, <a href="https://academy.bio-rad.com/certificates/auby1vabbl">Bio-Rad Academy</a>.<li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>2022</td>
+        <td>
+          <ul> 
+            <li><a href="https://github.com/rcanoy/Coursera_AlgorithmsForDNASequencing">Algorithms for DNA Sequencing</a>, <a href="https://www.coursera.org/account/accomplishments/certificate/T38FHDDTBC6N">Coursera - Johns Hopkins University</a></li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </p>
+</p>
