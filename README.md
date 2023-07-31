@@ -1,14 +1,12 @@
 <body style="background-color:white">
   <p style="line-height:100%">
-    <h1 align='center', style="font-size:300%">
+    <h1 align='center'>
       Raymart Jay Canoy<br>
     </h1>
     <h4 align='center'>
       <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a><br>
-      LinkedIn: <a href="https://www.linkedin.com/in/recanoy">recanoy</a><br>
-      Github: <a href="https://github.com/rcanoy">rcanoy</a><br>
-      ORCiD: <a href="https://orcid.org/0000-0003-2371-2900">0000-0003-2371-2900</a><br>
-      Twitter: <a href="https://twitter.com/canoyraymartjay">@canoyraymartjay</a>
+      LinkedIn: <a href="https://www.linkedin.com/in/recanoy">recanoy</a>, Github: <a href="https://github.com/rcanoy">rcanoy</a><br>
+      ORCiD: <a href="https://orcid.org/0000-0003-2371-2900">0000-0003-2371-2900</a>, Twitter: <a href="https://twitter.com/canoyraymartjay">@canoyraymartjay</a>
     </h4>
   </p>
   <p>
