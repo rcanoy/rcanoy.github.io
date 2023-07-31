@@ -5,7 +5,7 @@
     </h1>
     <h3 align='center'>
       <a href="mailto: recanoy@alum.up.edu.ph">recano@alum.up.edu.ph<a>
-    <h3>
+    </h3>
   </p>
   <p>
     <h2 style="color: rgb(138,139,140)">
