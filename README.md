@@ -1,8 +1,11 @@
-<body style="background-color:rgb(202,200,200)">
+<body style="background-color:white">
   <p align='center'>
     <h1 align='center'>
       Raymart Jay Canoy<br>
     </h1>
+    <h3 align='center'>
+      <a href="mailto: recanoy@alum.up.edu.ph">recano@alum.up.edu.ph<a>
+    <h3>
   </p>
   <p>
     <h2 style="color: rgb(138,139,140)">
@@ -274,9 +277,9 @@
           <td>2022</td>
           <td>
             <ul> 
-              <li><a href="https://github.com/rcanoy/Coursera_AlgorithmsForDNASequencing"><b>Algorithms for DNA Sequencing</b></a>, <a href="https://www.coursera.org/account/accomplishments/certificate/T38FHDDTBC6N"><b>Coursera - Johns Hopkins University</b></a></li>
-              <li><a href="https://github.com/rcanoy/Coursera_PythonForGenomicDataScience_FinalExam"><b>Python for Genomic Data Science</b>,</a> <a href="https://www.coursera.org/account/accomplishments/certificate/YDJRFFM28MLZ"><b>Coursera - Johns Hopkins University</b></a></li>
-              <li>Introduction to Genomic Data Science, <a href="https://www.coursera.org/account/accomplishments/certificate/5TEXSZ4YWNXG"><b>Coursera - Johns Hopkins University</b></a></li>
+              <li><a href="https://github.com/rcanoy/Coursera_AlgorithmsForDNASequencing"><b>Algorithms for DNA Sequencing</b></a>, <a href="https://www.coursera.org/account/accomplishments/certificate/T38FHDDTBC6N">Coursera - Johns Hopkins University</a></li>
+              <li><a href="https://github.com/rcanoy/Coursera_PythonForGenomicDataScience_FinalExam"><b>Python for Genomic Data Science</b>,</a> <a href="https://www.coursera.org/account/accomplishments/certificate/YDJRFFM28MLZ">Coursera - Johns Hopkins University</a></li>
+              <li><b>Introduction to Genomic Data Science</b>, <a href="https://www.coursera.org/account/accomplishments/certificate/5TEXSZ4YWNXG">Coursera - Johns Hopkins University</a></li>
               <li><a href="https://github.com/rcanoy/Coursera_RPrograming_Assignment2"><b>R Programming</b></a>, <a href="https://www.coursera.org/account/accomplishments/certificate/EHZ64U6FV7ZK">Coursera - Johns Hopkins University</a></li>
             </ul>
           </td>
