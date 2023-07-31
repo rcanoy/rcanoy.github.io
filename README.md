@@ -1,7 +1,7 @@
 <body style="background-color:white">
   <p style="line-height:100%">
     <h1 align='center'>
-      <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay Canoy<\a><br>
+      <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay Canoy</a><br>
     </h1>
     <h4 align='center'>
       <b>Email</b>: <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a><br>
