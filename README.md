@@ -3,9 +3,9 @@
     <h1 align='center'>
       Raymart Jay Canoy<br>
     </h1>
-    <h3 align='center'>
+    <h4 align='center'>
       <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a>
-    </h3>
+    </h4>
   </p>
   <p>
     <h2 style="color: rgb(138,139,140)">
@@ -107,29 +107,29 @@
       </h3>
         <table style="width:100%">
           <tr>
-          <td>2012-2015</td>
-          <td><b>Student Assistant</b>, Purchasing Section, Business and Finance Office, Silliman University, Dumaguete City, Philippines.
-          <ul>
-          <li>Received requisitions from various departments of Silliman University, Dumaguete City, Philippines</li>
-          <li>Canvassed prices and processed the purchasing orders of the requested supplies</li>
-          </ul>
-          </td>
+            <td>2012-2015</td>
+            <td><b>Student Assistant</b>, Purchasing Section, Business and Finance Office, Silliman University, Dumaguete City, Philippines.
+              <ul>
+                <li>Received requisitions from various departments of Silliman University, Dumaguete City, Philippines</li>
+                <li>Canvassed prices and processed the purchasing orders of the requested supplies</li>
+              </ul>
+            </td>
           </tr>
           <tr>
-          <td>2013-2014</td>
-          <td><b>Laboratory Assistant (Part Time), Physics Department, Silliman University, Dumaguete City, Philippines</b>
-          <ul>
-          <li>Supervised the laboratory activities of the general physics courses</li>
-          </ul>
-          </td>
+            <td>2013-2014</td>
+            <td><b>Laboratory Assistant (Part Time), Physics Department, Silliman University, Dumaguete City, Philippines</b>
+              <ul>
+                <li>Supervised the laboratory activities of the general physics courses</li>
+              </ul>
+            </td>
           </tr>
           <tr>
-          <td>2011-2012</td>
-          <td><b>Student Assistant</b>, Dean's Office, College of Nursing, Silliman University, Dumaguete City, Philippines
-          <ul>
-          <li>Assisted the Dean's secretary, faculty and staff in all office works</li>
-          </ul>
-          </td>
+            <td>2011-2012</td>
+            <td><b>Student Assistant</b>, Dean's Office, College of Nursing, Silliman University, Dumaguete City, Philippines
+              <ul>
+                <li>Assisted the Dean's secretary, faculty and staff in all office works</li>
+              </ul>
+            </td>
           </tr>
         </table>
     </p>
