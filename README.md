@@ -264,7 +264,7 @@
         <td>2023</td>
         <td>
           <ul>
-            <li>Fundamentals of RT-qPCR Course 1: Introduction to RT-qPCR and Gene Expression, <a href="https://academy.bio-rad.com/certificates/auby1vabbl">Bio-Rad Academy</a>.<li>
+            <li>Fundamentals of RT-qPCR Course 1: Introduction to RT-qPCR and Gene Expression, <a href="https://academy.bio-rad.com/certificates/auby1vabbl">Bio-Rad Academy</a>.</li>
           </ul>
         </td>
       </tr>
@@ -273,6 +273,7 @@
         <td>
           <ul> 
             <li><a href="https://github.com/rcanoy/Coursera_AlgorithmsForDNASequencing">Algorithms for DNA Sequencing</a>, <a href="https://www.coursera.org/account/accomplishments/certificate/T38FHDDTBC6N">Coursera - Johns Hopkins University</a></li>
+            <li><a href="https://github.com/rcanoy/Coursera_PythonForGenomicDataScience_FinalExam">Python for Genomic Data Science,</a> <a href="https://www.coursera.org/account/accomplishments/certificate/YDJRFFM28MLZ">Coursera - Johns Hopkins University</a></li>
           </ul>
         </td>
       </tr>
