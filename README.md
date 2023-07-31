@@ -260,12 +260,12 @@
     Personal Advancement
   </h2>
   <p>
-    <table>
+    <table style="width:100%">
       <tr>
         <td>2023</td>
         <td>
           <ul>
-            <li>Fundamentals of RT-qPCR Course 1: Introduction to RT-qPCR and Gene Expression, <a href="https://academy.bio-rad.com/certificates/auby1vabbl">Bio-Rad Academy</a>.</li>
+            <li><b>Fundamentals of RT-qPCR Course 1: Introduction to RT-qPCR and Gene Expression</b>, <a href="https://academy.bio-rad.com/certificates/auby1vabbl">Bio-Rad Academy</a>.</li>
           </ul>
         </td>
       </tr>
@@ -273,8 +273,37 @@
         <td>2022</td>
         <td>
           <ul> 
-            <li><a href="https://github.com/rcanoy/Coursera_AlgorithmsForDNASequencing">Algorithms for DNA Sequencing</a>, <a href="https://www.coursera.org/account/accomplishments/certificate/T38FHDDTBC6N">Coursera - Johns Hopkins University</a></li>
-            <li><a href="https://github.com/rcanoy/Coursera_PythonForGenomicDataScience_FinalExam">Python for Genomic Data Science,</a> <a href="https://www.coursera.org/account/accomplishments/certificate/YDJRFFM28MLZ">Coursera - Johns Hopkins University</a></li>
+            <li><a href="https://github.com/rcanoy/Coursera_AlgorithmsForDNASequencing"><b>Algorithms for DNA Sequencing</b></a>, <a href="https://www.coursera.org/account/accomplishments/certificate/T38FHDDTBC6N"><b>Coursera - Johns Hopkins University</b></a></li>
+            <li><a href="https://github.com/rcanoy/Coursera_PythonForGenomicDataScience_FinalExam"><b>Python for Genomic Data Science</b>,</a> <a href="https://www.coursera.org/account/accomplishments/certificate/YDJRFFM28MLZ"><b>Coursera - Johns Hopkins University</b></a></li>
+            <li>Introduction to Genomic Data Science, <a href="https://www.coursera.org/account/accomplishments/certificate/5TEXSZ4YWNXG"><b>Coursera - Johns Hopkins University</b></a></li>
+            <li><a href="https://github.com/rcanoy/Coursera_RPrograming_Assignment2"><b>R Programming</b></a>, <a href="https://www.coursera.org/account/accomplishments/certificate/EHZ64U6FV7ZK">Coursera - Johns Hopkins University</a></li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>2020</td>
+        <td> 
+          <ul>
+            <li><b>PH526x: Using Python for Research</b>, <a href="https://courses.edx.org/certificates/1979b00bfc3d4024995fd1e65925a8a2">edX - HarvardX</a></li>
+            <li><b>BME101X: So You Want to Be a Biomedical Engineer</b>, <a href="https://courses.edx.org/certificates/448e17acb204448089384f70c757f6a1">edX - UC San Diego</a></li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>2019</td>
+        <td>
+          <ul>
+            <li><b>Learn to Speak Korean 1</b>, <a href="https://www.coursera.org/account/accomplishments/certificate/RNYEXZTJAELL">Coursera - Yonsei University</a></li>
+            <li><b>FndBioImgx: Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications</b>, <a href="https://courses.edx.org/certificates/9ff81212891d4ebc8f1f8f248d59abb0">edX - EPFL</a></li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>2018</td>
+        <td>
+          <ul>
+            <li><b>Introduction to the Biolog of Cancer (with Honors)</b>, <a href="https://www.coursera.org/account/accomplishments/certificate/L8BU8W5CUJB4">Coursera - Johns Hopkins University</a><li>
+            <li><b>Understanding Cancer Metastasis, </b><a>Coursera - Johns Hopkins University</a></li>
           </ul>
         </td>
       </tr>
