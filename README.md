@@ -1,8 +1,7 @@
 <body style="background-color:white">
   <p style="line-height:100%">
-    <img src="https://github.com/rcanoy/rcanoy.github.io/blob/main/images/profilePicture.jpeg" alt="Profile Picture" height="50", width="50" style="border-radius:50%" align="center">
     <h1 align='center'>
-      <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay Canoy</a><br>
+      <img src="https://github.com/rcanoy/rcanoy.github.io/blob/main/images/profilePicture.jpeg" alt="Profile Picture" height="200", width="100"><a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay Canoy</a><br>
     </h1>
     <h4 align='center'>
       <b>Email</b>: <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a><br>
