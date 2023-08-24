@@ -271,7 +271,7 @@
           <td>2023</td>
           <td>
             <ul>
-              <li><a href="https://github.com/rcanoy/Coursera_Immunology"><b>Immunology: Innate Immune System</b></a>, Coursera - Imperial College London</li>
+              <li><a href="https://github.com/rcanoy/Coursera_Immunology"><b>Immunology: Innate Immune System</b></a>, <a href="https://www.coursera.org/account/accomplishments/certificate/V7VXAK5V3QQN">Coursera - Imperial College London</a></li>
               <li><b>Fundamentals of RT-qPCR Course 1: Introduction to RT-qPCR and Gene Expression</b>, <a href="https://academy.bio-rad.com/certificates/auby1vabbl">Bio-Rad Academy</a>.</li>
             </ul>
           </td>
