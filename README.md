@@ -68,7 +68,7 @@
             <td><b>Project Technical Specialist I (Science Research Specialist II)</b>, Center for Chemical Biology and Biotechnology, University of San Agustin, Iloilo, Philippines<br>
             <b>Supervisor:</b> Professor Doralyn S. Dalisay, PhD
             <ul>
-            <li>High-performance Liquid Chromatography Purification of secondary metabolites produced by marine sediment-derived actinobacteria, specifically the Streptomyces genus, for antibiotic and anticancer applications</li>
+            <li>High-performance Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived actinobacteria, specifically the Streptomyces genus, for antibiotic and anticancer applications</li>
             <li>Structural elucidation of secondary metabolites produced by marine sediment-derived actinobacteria, specifically the Streptomyces genus, using a 600-MHz Nuclear Magnetic Resonance Spectrometer</li>
             </ul>
             </td>
