@@ -187,7 +187,7 @@
         <tr>
           <td>Mar 2024</td>
           <td><b>2nd Iloilo International Conference of Advanced Natural Products Technologies (I2CANProTech II) and AuRIns-USA Bilateral Research Conference</b>, Iloilo City, Iloilo, Philippines<br>
-           <b>Poster Presentation (Best Poster Presentation)</b> 
+           <b>Poster Presentation (<FONT COLOR = red>Best Poster Presentation</FONT>)</b> 
           </td>
         </tr>
       </table>
