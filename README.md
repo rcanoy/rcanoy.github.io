@@ -59,6 +59,40 @@
         </table>
     </p>
     <p>
+    <h2 style="color: rgb(138,139,140)">
+      Publications
+    </h2>
+    <p>
+    <h3 style="color: rgb(163,31,52)">
+      Peer-reviewed Articles
+    </h3>
+      <table style="width:100%">
+        <tr>
+        <td>2023</td>
+        <td>YG Kang, <b>RJE Canoy</b>, Y Jang, ARMP Santos, I Son, BM Kim, and Y Park. "Optical coherence microscopy with a split-spectrum image reconstruction method for temporal-dynamics contrast-based imaging of intracellular motility," <i>Biomed. Opt. Express</i> <b>14</b>, 2 (2023); <a href="https://doi.org/10.1364/BOE.478264">https://doi.org/10.1364/BOE.478264</a>
+        </td>
+        </tr>
+      </table>
+    </p>
+    <p>
+    <h3 style="color: rgb(163,31,52)">
+      Review Articles
+    </h3>
+      <table style="width:100%">
+        <tr>
+        <td>2023</td>
+        <td>Z Phillips, <b>RJ Canoy</b>, S Paik, SH Lee, and BM Kim. "Functional near-infrared spectroscopy as a personalized digital healthcare tool for brain monitoring," <i>J. Clin. Neurol.</i> <b>19</b>, 2:115-124 (2023); <a href="https://doi.org/10.3988/jcn.2022.0406">https://doi.org/10.3988/jcn.2022.0406</a>
+        </td>
+        </tr>
+      </table>
+    </p>
+  </p>
+   <p>
+    <h2 style="color: rgb(138,139,140)">
+      Experience
+    </h2>
+    <p>
+    <p>
       <h3 style="color: rgb(163,31,52)">
         Research Experience
       </h3>
@@ -144,35 +178,6 @@
             </td>
           </tr>
         </table>
-    </p>
-  </p>
-  <p>
-    <h2 style="color: rgb(138,139,140)">
-      Publications
-    </h2>
-    <p>
-    <h3 style="color: rgb(163,31,52)">
-      Peer-reviewed Articles
-    </h3>
-      <table style="width:100%">
-        <tr>
-        <td>2023</td>
-        <td>YG Kang, <b>RJE Canoy</b>, Y Jang, ARMP Santos, I Son, BM Kim, and Y Park. "Optical coherence microscopy with a split-spectrum image reconstruction method for temporal-dynamics contrast-based imaging of intracellular motility," <i>Biomed. Opt. Express</i> <b>14</b>, 2 (2023); <a href="https://doi.org/10.1364/BOE.478264">https://doi.org/10.1364/BOE.478264</a>
-        </td>
-        </tr>
-      </table>
-    </p>
-    <p>
-    <h3 style="color: rgb(163,31,52)">
-      Review Articles
-    </h3>
-      <table style="width:100%">
-        <tr>
-        <td>2023</td>
-        <td>Z Phillips, <b>RJ Canoy</b>, S Paik, SH Lee, and BM Kim. "Functional near-infrared spectroscopy as a personalized digital healthcare tool for brain monitoring," <i>J. Clin. Neurol.</i> <b>19</b>, 2:115-124 (2023); <a href="https://doi.org/10.3988/jcn.2022.0406">https://doi.org/10.3988/jcn.2022.0406</a>
-        </td>
-        </tr>
-      </table>
     </p>
   </p>
   <p>
