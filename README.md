@@ -1,4 +1,9 @@
 <body style="background-color:white">
+  <div class="container-lg px-3 my-5 markdown-body">
+    ::before
+    <h1 align="center">
+      <a href="https://rcanoy.github.io">Raymart Jay Canoy</a>
+    </h1>
   <p style="line-height:100%">
     <h1 align='center'>
       <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay Canoy</a><br>
