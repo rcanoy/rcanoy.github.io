@@ -3,7 +3,7 @@
     <h1 align='center'>
       <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay Canoy</a><br>
     </h1>
-    <h4 align='left'>
+    <h4 align='center'>
       <b>Email</b>: <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a><br>
       <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/recanoy">recanoy</a> | <b>Github</b>: <a href="https://github.com/rcanoy">rcanoy</a><br>
       <b>ORCiD</b>: <a href="https://orcid.org/0000-0003-2371-2900">0000-0003-2371-2900</a> | <b>Twitter</b>: <a href="https://twitter.com/canoyraymartjay">@canoyraymartjay</a>
