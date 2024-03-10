@@ -187,7 +187,10 @@
         <tr>
           <td>Mar 2024</td>
           <td><b>2nd Iloilo International Conference of Advanced Natural Products Technologies (I2CANProTech II) and AuRIns-USA Bilateral Research Conference</b>, Iloilo City, Iloilo, Philippines<br>
-           <b>Poster Presentation (<FONT COLOR = red>Best Poster Presentation</FONT>)</b> 
+           <b>Poster Presentation (<a href="https://drive.google.com/file/d/1H2Dh7lVRoDYOY3bhOMgXl17x8Fyl99lG/view?usp=sharing"><FONT COLOR = red>Best Poster Presentation</FONT></a>)</b> 
+            <ul>
+            <li><b>RJE Canoy</b>, LKA Bayog, AMV Aguadera, MC Octaviano, DS Amago, ALR Nocete, DPC Caspe, EM Sabido, JP Saludes, and DS Dalisay. "Addressing the anticancer drug shortage by harnessing the cytotoxic angucycline metabolites from marine sediment-derived <i>Streptomyces carlesensis</i> DSD011, <i>2nd Iloilo International Conference on Advanced Natural Products Technologies (I2CANProTech II) and AuRIns-USA Bilateral Research Conference</i>, PD-04, (Iloilo City, Iloilo, Philippines, 2024).</li>  
+            </ul>
           </td>
         </tr>
       </table>
