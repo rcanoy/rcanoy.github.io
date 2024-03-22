@@ -104,7 +104,7 @@
             <b>Supervisor:</b> Professor Doralyn S. Dalisay, PhD
             <ul>
             <li>Perform High-performance Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived actinobacteria, specifically the <i>Streptomyces</i> genus, for antibiotic and anticancer applications</li>
-            <li>Perform chemical characterization of the isolated pure compounds from the secondary metabolites produced by marine sediment-derived actinobacteria, specifically the <i>Streptomyces</i> genus, using a 600-MHz Nuclear Magnetic Resonance Spectrometry, and low- and high-resolution mass spectrometry</li>
+            <li>Perform chemical characterization of the isolated pure compounds from the secondary metabolites produced by marine sediment-derived actinobacteria, specifically the <i>Streptomyces</i> genus, using a 600-MHz Nuclear Magnetic Resonance Spectroscopy, and low- and high-resolution mass spectrometry</li>
             </ul>
             </td>
           </tr>
@@ -195,7 +195,7 @@
           <td><b>2nd Iloilo International Conference of Advanced Natural Products Technologies (I2CANProTech II) and AuRIns-USA Bilateral Research Conference</b>, Iloilo City, Iloilo, Philippines<br>
            <b>Poster Presentation (<a href="https://drive.google.com/file/d/1H2Dh7lVRoDYOY3bhOMgXl17x8Fyl99lG/view?usp=sharing"><FONT COLOR = red>Best Poster Presentation</FONT></a>)</b> 
             <ul>
-            <li><b>RJE Canoy</b>, LKA Bayog, AMV Aguadera, MC Octaviano, DS Amago, ALR Nocete, DPC Caspe, EM Sabido, JP Saludes, and DS Dalisay. "Addressing the anticancer drug shortage by harnessing the cytotoxic angucycline metabolites from marine sediment-derived <i>Streptomyces carlesensis</i> DSD011, <i>2nd Iloilo International Conference on Advanced Natural Products Technologies (I2CANProTech II) and AuRIns-USA Bilateral Research Conference</i>, PD-04, (Iloilo City, Iloilo, Philippines, 2024).</li>  
+            <li><b>RJE Canoy</b>, LKA Bayog, AMV Aguadera, MC Octaviano, DS Amago, ALR Nocete, DPC Caspe, EM Sabido, JP Saludes, and DS Dalisay. <a href="https://drive.google.com/file/d/1aKuYP4DUPhDstv77Lh6AvbJz6NiHyN84/view?usp=sharing">"Addressing the anticancer drug shortage by harnessing the cytotoxic angucycline metabolites from marine sediment-derived <i>Streptomyces carlesensis</i> DSD011,"</a> <i>2nd Iloilo International Conference on Advanced Natural Products Technologies (I2CANProTech II) and AuRIns-USA Bilateral Research Conference</i>, PD-04, (Iloilo City, Iloilo, Philippines, 2024).</li>  
             </ul>
           </td>
         </tr>
