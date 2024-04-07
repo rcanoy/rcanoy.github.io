@@ -123,7 +123,7 @@
           <tr>
             <td>2016-2018</td>
             <td><b>Graduate Student</b>, Structure and Dynamics Group, National Institute of Physics, University of the Philippines Diliman, Quezon City, Philippines<br>
-            <b>Supervisor:</b> Professor Francis Norman C. Paraan
+            <b>Supervisor:</b> Professor Francis Norman C. Paraan, PhD
             <ul>
             <li>Derived the work statistics of the quenched Kitaev chain model with long-range interactions</li>
             <li>Submitted and presented the results at a peer-reviewed conference</li>
