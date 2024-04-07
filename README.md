@@ -53,7 +53,7 @@
               <ul>
                 <li><b>Bachelor of Science in Physics, <i>magna cum laude</i></b>. GPA: 3.68/4.00</li>
                 <li><b>Thesis Title:</b> An analysis of the gamma radiation spectra of soil samples from Dumaguete City Dumpsite and Ecological Park.</li>
-                <li><b>Thesis Advisor:</b> Professor Hope M. Bandan, PhD</li>
+                <li><b>Thesis Advisor:</b> Professor Hope M. Bandal, PhD</li>
               </ul>
             </td>
           </tr>
