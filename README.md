@@ -509,6 +509,63 @@
           </table>
         </td>
       </tr>
+      <tr>
+        <td>Jan 2023</td>
+        <td>Seoul, Republic of Korea</td>
+      </tr>
+      <tr>
+        <td>Jan 2022</td>
+        <td>United States of America
+          <table>
+            <tr>
+              <td>21-28 Jan 2022</td>
+              <td>San Francisco, California, U.S.A</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Palo Alto, California, U.S.A.</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>2019-2022</td>
+        <td>Republic of Korea
+          <table>
+            <tr>
+              <td>7 May 2022</td>
+              <td>Seoul Land, Gyeonggi-do, Republic of Korea</td>
+            </tr>
+            <tr>
+              <td>11 Jul 2021</td>
+              <td>Odusan Unification Observation Deck, Paju-si, Republic of Korea</td>
+            </tr>
+            <tr>
+              <td>3-7 Jul 2021</td>
+              <td>Jeju, Republic of Korea</td>
+            </tr>
+            <tr>
+              <td>Everland, Yongin-si, Republic of Korea</td>
+            </tr>
+            <tr>
+              <td>11 Nov 2019</td>
+              <td>Busan, Republic of Korea</td>
+            </tr>
+            <tr>
+              <td>01-01 Nov 2019</td>
+              <td>Ulleung-gun, Republic of Korea</td>
+            </tr>
+            <tr>
+              <td>02 Nov 2019</td>
+              <td><b>Honorary Residency</b> in Dokdo, Ulleung-gun, Republic of Korea</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td><b>독도주소:</b> 경상북도 울릉군 울릉읍 독도안용 복길 3</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
     </table>
   </p>
 
