@@ -79,7 +79,6 @@
           <ul>
             <li><b>PY - MSc (Medical Physics)</b></li>
           </ul>
-            
           </td>
         </tr>
       </table>
