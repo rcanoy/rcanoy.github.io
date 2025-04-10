@@ -175,7 +175,7 @@
             <ul>
               <li>Developed an image processing and dispersion compensation pipeline in MATLAB to provide the functionality to a custom-made spectral-domain Optical Coherence Microscope (SD-OCM) system to elucidate the effects of biochemical inhibitors on intracellular motility, an indicator of the physiological characteristics of biological organisms</li>
               <li>Prepared both free-edged and confined human mesenchymal stem cell cultures, Madin-Darby canine kidney cell cultures, and cardiac fibroblast cell cultures</li>
-              <li>Prepared cell-culture imaging using the custom-made SD-OCM system</li>
+              <li>Performed cell-culture imaging using the custom-made SD-OCM system</li>
               <li>Assisted in preparing and writing up the results of this project for publication in a peer-reviewed journal</li>
             </ul>
           </td>
