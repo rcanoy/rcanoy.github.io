@@ -485,6 +485,7 @@
         <td>Thai Elephant Conservation Center, Nakhon Lampang, Thailand</td>
       </tr>
       <tr>
+        <td></td>
         <td>Phra Nakhon Si Ayutthaya, Thailand</td>
       </tr>
       <tr>
