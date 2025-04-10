@@ -141,7 +141,7 @@
       </h3>
         <table style="width:100%">
           <tr>
-            <td>Sep 2023 - Sep 2024</td>
+            <td>2023-Sep</td>
             <td><b>Project Technical Specialist I (Science Research Specialist II)</b>, Center for Chemical Biology and Biotechnology, University of San Agustin, Iloilo, Philippines<br>
             <b>Supervisor:</b> Doralyn S. Dalisay
             <ul>
