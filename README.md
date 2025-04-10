@@ -64,6 +64,7 @@
       <h2  style="color: RGB(138,139,140)">
         University Admissions
       </h2>
+      <p>
       <table style="width:100%">
         <tr>
           <td>2023</td>
@@ -82,6 +83,7 @@
           </td>
         </tr>
       </table>
+      </p>
     </p>
     <p>
     <h2 style="color: rgb(138,139,140)">
