@@ -163,7 +163,7 @@
             <li>Performed High-performace Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria for antibiotic and anticancer applications</li>
             <li>Performed chemical characterization of the isolated compounds from the secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria using:</li>
             <ul>
-              <li>Proton Nuclear Magnetic Resonance Spectroscopy (1H NMR) (Frequency: 600 MHz),</li>
+              <li>Proton - 600 MHz Nuclear Magnetic Resonance Spectroscopy (1H - 600 MHz NMR),</li>
               <li>Low- and high-resolution mass spectrometry</li>
             </ul>
           </ul></td>
