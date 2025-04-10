@@ -3,7 +3,7 @@
   <p style="line-height:100%">
     <h1 align='center'>
       <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay (
-        <div class="horizontal-text">
+        <div class="vertical-text">
           <ruby>例真途自詠</ruby>
         </div>
       )</a><br>
