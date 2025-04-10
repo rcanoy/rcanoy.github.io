@@ -442,5 +442,18 @@
     <h2 style="color:rgb(138,139,140)">
       Travel
     </h2>
+    <table>
+      <tr>
+        <td>Dec 2024</td>
+        <td>
+          <table>
+            <tr>
+              <td>24-27 Dec 2024</td>
+              <td>Bangkok, Thailand</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
   </p>
 
