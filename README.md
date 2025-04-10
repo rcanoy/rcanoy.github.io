@@ -134,7 +134,7 @@
     <h2 style="color: rgb(138,139,140)">
       Experience
     </h2>
-    <p>
+  </p>
     <p>
       <h3 style="color: rgb(163,31,52)">
         Research Experience
