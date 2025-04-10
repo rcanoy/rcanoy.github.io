@@ -2,11 +2,11 @@
 </body>
   <p style="line-height:100%">
     <h1 align='center'>
-      <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay (
+      <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay
         <div class="vertical-text">
-          <ruby>例真途自詠</ruby>
+          <ruby>(例真途自詠)</ruby>
         </div>
-      )</a><br>
+      </a><br>
       <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&h1=en">Ejan (李韓) Canoy (可汗回)</a><br>
     </h1>
     <h4 align='center'>
