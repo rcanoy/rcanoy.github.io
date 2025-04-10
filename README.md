@@ -140,7 +140,7 @@
         Research Experience
       </h3>
         <table style="width:100%">
-          <tr>
+          <! <tr>
             <td>2023-2024</td>
             <td><b>Center for Chemical Biology and Biotechnology</b>, University of San Agustin, Iloilo, Philippines<br>
               <ul>
@@ -181,7 +181,7 @@
             <li>Submitted and presented the results at a peer-reviewed conference</li>
             </ul>
             </td>
-          </tr>
+          </tr>>
         </table>
     </p>
     <p>
