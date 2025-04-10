@@ -501,7 +501,11 @@
           <tr><td>Siriraj Medical Museum</td></tr>
           <tr><td>Siriraj Bimuksthan Museum</td></tr>
           <tr><td>Chao Phraya Express Boat - Yellow Flag and Orange Flag<td></tr>
-        </tr><td>The Museum of the Human Body, Chulalongkorn University</td></tr>
+          </tr><td>The Museum of the Human Body, Chulalongkorn University</td></tr>
+          </tr><td>THE Museum of the Human Body, Chulalongkorn University</td></tr>
+          <tr><td>Museum Siam</td></tr>
+          <tr><td>THE National Museum Bangkok and THE Palace of the Front</td></tr>  
+          <tr></td>THE GRAND PALACE</td></tr> 
         </table>
         </td>
       </tr>
