@@ -486,15 +486,16 @@
       </tr>
       <tr>
         <td></td>
-        <td>Phra Nakhon Si Ayutthaya, Thailand</td>
+        <td>Phra Nakhon Si Ayutthaya, Thailand
         <table>
           <tr><td>Wat Rachaburana</td></tr>
           <tr><td>Wat Maha That</td></td></tr>
         </table>
+        </td>
       </tr>
       <tr>
         <td></td>
-        <td>Bangkok, Thailand</td>
+        <td>Bangkok, Thailand
         <table>
           <tr></tr><td>Watched "RIVULET OF UNIVERSE" at HOUSE SAMYAN on 20 Dec 2024 at 18:00 (HOUSE 4 - E8)</td></tr>
           <tr><td>Siriraj Medical Museum</td></tr>
@@ -502,6 +503,7 @@
           <tr><td>Chao Phraya Express Boat - Yellow Flag and Orange Flag<td></tr>
         </tr><td>The Museum of the Human Body, Chulalongkorn University</td></tr>
         </table>
+        </td>
       </tr>
     </table>
   </p>
