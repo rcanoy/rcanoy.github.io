@@ -153,7 +153,7 @@
               <li>Sep 2023 - May 2024</li>
             </ul> 
           </ul>
-          <b>Supervisor:</b> Doralyn S. Dalisay
+          <b>Supervisor:</b> Doralyn S. Dalisay<br>
           <ul>
             <li>Performed High-performace Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria for antibiotic and anticancer applications</li>
             <li>Performed chemical characterization of the isolated compounds from the secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria using:</li>
