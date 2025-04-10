@@ -545,7 +545,7 @@
               <td>Jeju, Republic of Korea</td>
             </tr>
             <tr>
-              <td></td>
+              <td>19 May 2021</td>
               <td>Everland, Yongin-si, Republic of Korea</td>
             </tr>
             <tr>
