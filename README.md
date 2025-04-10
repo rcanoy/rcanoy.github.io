@@ -138,7 +138,23 @@
     <p>
       <h3 style="color: rgb(163,31,52)">
         Research Experience
-      </h3> 
+      </h3>
+      <table>
+        <tr>
+          <td>2023-2024</td>
+          <td><b>Center for Chemical Biology and Biotechnology</b>, University of San Agustin, Iloilo, Philippines</td>
+          <ul>
+            <li><b>DOST-SEI CIP (<i>MS Graduate Fellow</i>)</b>,</li>
+              <ul>
+                <li>Jun 2024 - Sep 2024</li>
+              </ul>
+            <li>Project Technical Specialist I (Science Research Specialist II)</b>,</li>
+            <ul>
+              <li>Sep 2023 - May 2024</li>
+            </ul> 
+          </ul>
+        </tr>
+      </table>
     </p>
     <p>
       <h3 style="color: rgb(163, 31, 52)">
