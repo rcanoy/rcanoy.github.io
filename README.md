@@ -148,11 +148,20 @@
               <ul>
                 <li>Jun 2024 - Sep 2024</li>
               </ul>
-            <li>Project Technical Specialist I (Science Research Specialist II)</b>,</li>
+            <li><b>Project Technical Specialist I (Science Research Specialist II)</b>,</li>
             <ul>
               <li>Sep 2023 - May 2024</li>
             </ul> 
           </ul></td>
+          <b>Supervisor:</b> Doralyn S. Dalisay
+          <ul>
+            <li>Performed High-performace Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria for antibiotic and anticancer applications</li>
+            <li>Performed chemical characterization of the isolated compounds from the secondary metabolites produced by marine sediment-<i>Streptomyces</i> from the order of actinobacteria using:</li>
+            <ul>
+              <li>Proton Nuclear Magnetic Resonance Spectroscopy (1H NMR) (Frequency: 600 MHz),</li>
+              <li>Low- and high-resolution mass spectrometry</li>
+            <\ul>
+          </ul>
         </tr>
       </table>
     </p>
