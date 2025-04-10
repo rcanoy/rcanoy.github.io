@@ -4,7 +4,8 @@
     <h1 align='center'>
       <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&hl=en">Raymart Jay
         <div class="horizontal-text">
-          <ruby>(例真途自詠)</ruby>
+          <ruby>(例真途自詠)<rp>(<rp><rt>れいまとじえい
+</rt></rp>)</rp></ruby>
         </div>
       </a><br>
       <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&h1=en">Ejan (李韓) Canoy (可汗回)</a><br>
