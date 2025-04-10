@@ -495,7 +495,10 @@
       </tr>
       <tr>
         <td></td>
-        <td>Bangkok, Thailand  
+        <td>Bangkok, Thailand 
+          <table>
+            <tr><td>Watched "RIVULET OF UNIVERSE" at HOUSE SAMYAN on 20 Dec 2024 at 18:00 (HOUSE 4 - E8)</td></tr>
+          </table>
         </td>
       </tr>
     </table>
