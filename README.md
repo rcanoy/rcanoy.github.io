@@ -442,6 +442,12 @@
     <h2 style="color:RGB(138,139,140)">
       Professional Memberships
     </h2>
+    <table>
+      <tr>
+        <td>2024-2025</td>
+        <td><b>Community Associate</b>, <i>American Chemical Society</i>, Columbus, OH, U.S.A.</td>
+      </tr>
+    </table>
   </p>  
   <p>
     <h2 style="color:rgb(138,139,140)">
