@@ -53,6 +53,14 @@
           </ul>
         </td>
       </tr>
+      <tr>
+        <td>2011-2015</td>
+        <td><b>Silliman University</b>, Dumaguete City, Philippines.
+          <ul>
+            <li><b>Bachelor of Science in Physics, <i>manga cum laude</i></b>. GPA: 3.68/4.00</li>
+          </ul>
+        </td>
+      </tr>
     </table>
     </p>
     <p>
