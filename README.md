@@ -152,7 +152,7 @@
             <ul>
               <li>Sep 2023 - May 2024</li>
             </ul> 
-          </ul></td>
+          </ul>
           <b>Supervisor:</b> Doralyn S. Dalisay
           <ul>
             <li>Performed High-performace Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria for antibiotic and anticancer applications</li>
@@ -160,8 +160,8 @@
             <ul>
               <li>Proton Nuclear Magnetic Resonance Spectroscopy (1H NMR) (Frequency: 600 MHz),</li>
               <li>Low- and high-resolution mass spectrometry</li>
-            <\ul>
-          </ul>
+            </ul>
+          </ul></td>
         </tr>
       </table>
     </p>
