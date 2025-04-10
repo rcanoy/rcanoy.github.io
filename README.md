@@ -43,6 +43,14 @@
           </ul>
         </td>
       </tr>
+      <tr>
+        <td>2015-2018</td>
+        <td><b>University of the Philippines Diliman</b>, Quezon City, Philippines.
+          <ul>
+            <li><b>Master of Science in Physics</b>. GPA (Graduate Courses): 1.30/1.00</li>
+          </ul>
+        </td>
+      </tr>
     </table>
     </p>
     <p>
