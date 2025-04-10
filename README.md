@@ -61,9 +61,9 @@
         </table>
     </p>
     <p>
-      <h2  style="color: RGB(138,139,140)">
+      <h3  style="color: RGB(163,31,52)">
         <b>University Admissions</b>
-      </h2>
+      </h3>
       <p>
       <table style="width:100%">
         <tr>
