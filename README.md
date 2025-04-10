@@ -442,20 +442,6 @@
     <h2 style="color:RGB(138,139,140)">
       Professional Memberships
     </h2>
-    <table>
-      <tr>
-        <td>2024-2025</td>
-        <td><b>Community Associate<b>, <i>American Chemical Society<I>, Columbus, OH, U.S.A.</td>  
-      </tr>
-      <tr>
-        <td>2020-2023</td>
-        <td><b>Member</b>, <i>The Society of Photo-Optical Instrumentation Engineers</i>, Bellingham, WA, U.S.A.</td>
-      </tr>
-      <tr>
-        <td>2018-Present</td>
-        <td><b>Member</b>, <i>Samahang Pisika ng Pilipinas</i>, Quezon City, Philippines</td>
-      </tr>    
-    </table>
   </p>  
   <p>
     <h2 style="color:rgb(138,139,140)">
