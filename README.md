@@ -8,7 +8,7 @@
 </rt></rp>)</rp></ruby>
         </div>
       </a><br>
-      <a href="https://scholar.google.com/citations?user=FQ5FOAsAAAAJ&h1=en">Ejan (母系図: 李韓) Canoy (父系図: 可汗回)</a><br>
+      <a href="https://raymartjaycanoy.wixsite.com/recanoy">Ejan (母系図: 李韓) Canoy (父系図: 可汗回)</a><br>
     </h1>
     <h4 align='center'>
       <b>Email</b>: <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a><br>
