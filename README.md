@@ -489,7 +489,7 @@
         <td>Phra Nakhon Si Ayutthaya, Thailand
         <table>
           <tr><td>Wat Rachaburana</td></tr>
-          <tr><td>Wat Maha That</td></td></tr>
+          <tr><td>Wat Maha That</td></tr>
         </table>
         </td>
       </tr>
