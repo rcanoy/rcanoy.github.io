@@ -48,6 +48,7 @@
         <td><b>University of the Philippines Diliman</b>, Quezon City, Philippines.
           <ul>
             <li><b>Master of Science in Physics</b>. GPA (Graduate Courses): 1.30/1.00</li>
+            <li><b>Thesis Title:</b> Work statistics in a quenched Kitaev chain with long-range interaction.</li>
           </ul>
         </td>
       </tr>
