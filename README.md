@@ -67,10 +67,11 @@
       <table style="width:100%">
         <tr>
           <td>2023</td>
-          <td><b>Imperial College London</b>, London, United Kingdom</td>
+          <td><b>Imperial College London</b>, London, United Kingdom
           <ul>
             <li><b>Cancer Biology (Cancer Informatics) (MRes 1YFT)</b></li>
           </ul>
+          </td>
         </tr>
       </table>
     </p>
