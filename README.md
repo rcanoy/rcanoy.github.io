@@ -449,7 +449,13 @@
           <table>
             <tr>
               <td>24-27 Dec 2024</td>
-              <td>Bangkok, Thailand</td>
+              <td>Bangkok, Thailand
+                <table>
+                  <tr><td>Two Kings Monument, Chulalongkorn University</td></tr>
+                  <tr><td>Holy Redeemer Church</td></tr>
+                  <tr><td>Wat Suthat</td></tr>
+                </table>
+              </td>
             </tr>
             <tr>
               <td>22-24 Dec 2024</td>
@@ -464,10 +470,26 @@
               <td>Butterworth, Penang, Malaysia</td>
             </tr>
             <tr>
+              <td></td>
               <td>Padang Besar, Malaysia</td>
             </tr>
           </table>
         </td>
+      </tr>
+      <tr>
+        <td>13-22 Dec 2024</td>
+        <td>Hat Yai, Thailand</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Thai Elephant Conservation Center, Nakhon Lampang, Thailand</td>
+      </tr>
+      <tr>
+        <td>Phra Nakhon Si Ayutthaya, Thailand</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Bangkok, Thailand</td>
       </tr>
     </table>
   </p>
