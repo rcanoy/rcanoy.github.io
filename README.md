@@ -347,6 +347,33 @@
   </p>
   <p>
     <h2 style="color:rgb(138,139,140)">
+      Awards and Scholarships
+    </h2>
+    <table style="width:100%">
+      <tr>
+        <td>2019-2022</td>
+        <td>Global Korea Scholarship (Korean Government Scholarship Program)</td>
+      </tr>
+      <tr>
+        <td>2015-2018</td>
+        <td>Republic of the Philippines Department of Science and Technology - Science Education Institute (DOST-SEI) Accelerated Science and Technology Human Resource Development Program (ASTHRDP) Graduate Scholarship</td>
+      </tr>
+      <tr>
+        <td>2015</td>
+        <td>2015 BPI-DOST Science Award</td>
+      </tr>
+      <tr>
+        <td>2015</td>
+        <td>Graduation Honors (<i>Magna Cum Laude</i>), Silliman University</td>
+      </tr>
+      <tr>
+        <td>2011-2015</td>
+        <td>Silliman University Portal Scholarship</td>
+      </tr>
+    </table>
+  </p>
+  <p>
+    <h2 style="color:rgb(138,139,140)">
       Personal Advancement
     </h2>
     <p>
