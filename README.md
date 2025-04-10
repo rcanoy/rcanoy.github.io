@@ -48,7 +48,7 @@
         <td><b>University of the Philippines Diliman</b>, Quezon City, Philippines.
           <ul>
             <li><b>Master of Science in Physics</b>. GPA (Graduate Courses): 1.30/1.00</li>
-            <li><b>Thesis Title:</b> Work statistics in a quenched Kitaev chain with long-range interaction.</li>
+            <li><b>Thesis Title:</b> Work statistics in a quenched Kitaev chain with long-range interactions.</li>
             <li><b>Thesis Advisor:</b> <a href="https://scholar.google.com/citations?hl=en&user=Z2zTvSQAAAAJ">Professor Francis Norman C. Paraan, PhD</a></li>
           </ul>
         </td>
