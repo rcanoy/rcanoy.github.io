@@ -142,7 +142,7 @@
         <table style="width:100%">
           <tr>
             <td>2023-2024</td>
-            <td><b>Center for Chemical Biology and Biotechnology</br>, University of San Agustin, Iloilo, Philippines<br>
+            <td><b>Center for Chemical Biology and Biotechnology</b>, University of San Agustin, Iloilo, Philippines<br>
               <ul>
                 <li><b>DOST-SEI CIP <i>MS Graduate Fellow<i></b></li>
                   <ul>
