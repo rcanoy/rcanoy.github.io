@@ -168,6 +168,28 @@
             </ul>
           </ul></td>
         </tr>
+        <tr>
+          <td>2020-2022</td>
+          <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory (KUBOL), Korea University, Seoul, Republic of Korea<br>
+            <b>Supervisor:</b> Professor Beop-Min Kim, PhD
+            <ul>
+              <li>Developed an image processing and dispersion compensation pipeline in MATLAB to provide the functionality to a custom-made spectral-domain Optical Coherence Microscope (SD-OCM) system to elucidate the effects of biochemical inhibitors on intracellular motility, an indicator of the physiological characteristics of biological organisms</li>
+              <li>Prepared both free-edged and confined human mesenchymal stem cell cultures, Madin-Darby canine kidney cell cultures, and cardiac fibroblast cell cultures</li>
+              <li>Prepared cell-culture imaging using the custom-made SD-OCM system</li>
+              <li>Assisted in preparing and writing up the results of this project for publication in a peer-reviewed journal</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>2016-2018</td>
+          <td><b>Graduate Student</b>, Structure and Dynamics Group, National Institute of Physics, University of the Philippines Diliman, Quezon City, Philippines<br>
+          <b>Supervisor:</b> Professor Francis Norman C. Paraan, PhD
+          <ul>
+            <li>Derived the work statistics of the quenched Kitaev chain model with long-range interactions</li>
+            <li>Submitted and presented the results at a peer-reviewed conference</li>
+          </ul>
+          </td>
+        </tr>
       </table>
     </p>
     <p>
