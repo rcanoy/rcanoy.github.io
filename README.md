@@ -138,51 +138,7 @@
     <p>
       <h3 style="color: rgb(163,31,52)">
         Research Experience
-      </h3>
-        <table style="width:100%">
-          <! <tr>
-            <td>2023-2024</td>
-            <td><b>Center for Chemical Biology and Biotechnology</b>, University of San Agustin, Iloilo, Philippines<br>
-              <ul>
-                <li><b>DOST-SEI CIP <i>MS Graduate Fellow<i></b></li>
-                  <ul>
-                    <li>Jun 2024 - Sep 2024</li>
-                  </ul>
-                <li><b>Project Technical Specialist I (Science Research Specialist II)</b>,</li>
-                  <ul>
-                    <li>Sep 2023 - May 2024</li>
-                  </ul>
-              </ul>
-            <b>Supervisor:</b>Doralyn S. Dalisay
-            <ul>
-            <li>Perform High-performance Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived actinobacteria, specifically the <i>Streptomyces</i> genus, for antibiotic and anticancer applications</li>
-            <li>Perform chemical characterization of the isolated pure compounds from the secondary metabolites produced by marine sediment-derived actinobacteria, specifically the <i>Streptomyces</i> genus, using a 600-MHz Nuclear Magnetic Resonance Spectroscopy, and low- and high-resolution mass spectrometry</li>
-            </ul>
-            </td>
-          </tr>
-          <tr>
-            <td>2020-2022</td>
-            <td><b>Graduate Student</b>, Korea University Biomedical Optics Laboratory, Korea University, Seoul, Republic of Korea<br>
-            <b>Supervisor:</b> Professor Beop-Min Kim, PhD
-            <ul>
-            <li>Developed an image processing and dispersion compensation pipeline in MATLAB to provide the functionality to a custom-made spectral-domain Optical Coherence Microscoope (SD-OCM) system to elucidate the effects of biochemical inhibitors on intracellular motility, an indicator of the physiological characteristics of biological organisms</li>
-            <li>Prepared both free-edged and confined human mesenchymal stem cell cultures, Madin-Darby canine kidney cell cultures, and cardiac fibroblast cell cultures</li>
-            <li>Performed cell-culture imaging using the custom-made SD-OCM system</li>
-            <li>Assisted in preparing and writing up the results of this project for publication in a peer-reviewed journal</li>
-            </ul>
-            </td>
-          </tr>
-          <tr>
-            <td>2016-2018</td>
-            <td><b>Graduate Student</b>, Structure and Dynamics Group, National Institute of Physics, University of the Philippines Diliman, Quezon City, Philippines<br>
-            <b>Supervisor:</b> Professor Francis Norman C. Paraan, PhD
-            <ul>
-            <li>Derived the work statistics of the quenched Kitaev chain model with long-range interactions</li>
-            <li>Submitted and presented the results at a peer-reviewed conference</li>
-            </ul>
-            </td>
-          </tr>>
-        </table>
+      </h3> 
     </p>
     <p>
       <h3 style="color: rgb(163, 31, 52)">
