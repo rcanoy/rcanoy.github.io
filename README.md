@@ -156,7 +156,7 @@
           <b>Supervisor:</b> Doralyn S. Dalisay
           <ul>
             <li>Performed High-performace Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria for antibiotic and anticancer applications</li>
-            <li>Performed chemical characterization of the isolated compounds from the secondary metabolites produced by marine sediment-<i>Streptomyces</i> from the order of actinobacteria using:</li>
+            <li>Performed chemical characterization of the isolated compounds from the secondary metabolites produced by marine sediment-derived <i>Streptomyces</i> from the order of actinobacteria using:</li>
             <ul>
               <li>Proton Nuclear Magnetic Resonance Spectroscopy (1H NMR) (Frequency: 600 MHz),</li>
               <li>Low- and high-resolution mass spectrometry</li>
