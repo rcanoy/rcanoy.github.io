@@ -13,7 +13,7 @@
   </p>
   <p>
     <h2 style="color: rgb(138,139,140)">
-      Home
+      <b>Home</b>
     </h2>
     <p>
       <h3 style="color: rgb(163,31,52)">
@@ -62,7 +62,7 @@
     </p>
     <p>
       <h2  style="color: RGB(138,139,140)">
-        University Admissions
+        <b>University Admissions</b>
       </h2>
       <p>
       <table style="width:100%">
