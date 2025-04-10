@@ -25,7 +25,10 @@
         Education
       </h3>
     <table style="width:100%">
-      
+      <tr>
+        <td>2020-2022</td>
+        <td><b>Korea University</b>, Seoul, Republic of Korea</td>
+      </tr>
     </table>
     </p>
     <p>
