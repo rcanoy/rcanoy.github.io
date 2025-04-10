@@ -572,7 +572,7 @@
               <td>Busan, Republic of Korea</td>
             </tr>
             <tr>
-              <td>01-01 Nov 2019</td>
+              <td>01-03 Nov 2019</td>
               <td>Ulleung-gun, Republic of Korea</td>
             </tr>
             <tr>
