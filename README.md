@@ -62,7 +62,7 @@
     </p>
     <p>
       <h3  style="color: RGB(163,31,52)">
-        <b>University Admissions</b>
+        University Admissions
       </h3>
       <p>
       <table style="width:100%">
