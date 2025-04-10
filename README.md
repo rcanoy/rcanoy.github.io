@@ -118,12 +118,14 @@
     <h2 style="color: RGB(138,139,140)">
       Peer Review
     </h2>
+    <p>
     <table style="width:100%">
       <tr>
         <td>02 Jul 2024</td>
         <td><b>Biomedical Optics Express, Optica Publishing Group</b>, Status: Published</td>
       </tr>
     </table>
+    </p>
   </p>
    <p>
     <h2 style="color: rgb(138,139,140)">
