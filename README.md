@@ -445,11 +445,26 @@
     <table>
       <tr>
         <td>Dec 2024</td>
-        <td>
+        <td><b>Thailand and Malaysia</b>
           <table>
             <tr>
               <td>24-27 Dec 2024</td>
               <td>Bangkok, Thailand</td>
+            </tr>
+            <tr>
+              <td>22-24 Dec 2024</td>
+              <td>George Town, Penang Malaysia</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Penang War Museum, Batu Maung, Penang, Malaysia</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Butterworth, Penang, Malaysia</td>
+            </tr>
+            <tr>
+              <td>Padang Besar, Malaysia</td>
             </tr>
           </table>
         </td>
