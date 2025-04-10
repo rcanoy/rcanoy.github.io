@@ -141,9 +141,19 @@
       </h3>
         <table style="width:100%">
           <tr>
-            <td>2023-Sep</td>
-            <td><b>Project Technical Specialist I (Science Research Specialist II)</b>, Center for Chemical Biology and Biotechnology, University of San Agustin, Iloilo, Philippines<br>
-            <b>Supervisor:</b> Doralyn S. Dalisay
+            <td>2023-2024</td>
+            <td><b>Center for Chemical Biology and Biotechnology</br>, University of San Agustin, Iloilo, Philippines<br>
+              <ul>
+                <li><b>DOST-SEI CIP <i>MS Graduate Fellow<i></b></li>
+                  <ul>
+                    <li>Jun 2024 - Sep 2024</li>
+                  </ul>
+                <li><b>Project Technical Specialist I (Science Research Specialist II)</b>,</li>
+                  <ul>
+                    <li>Sep 2023 - May 2024</li>
+                  </ul>
+              </ul>
+            <b>Supervisor:</b>Doralyn S. Dalisay
             <ul>
             <li>Perform High-performance Liquid Chromatography purification of secondary metabolites produced by marine sediment-derived actinobacteria, specifically the <i>Streptomyces</i> genus, for antibiotic and anticancer applications</li>
             <li>Perform chemical characterization of the isolated pure compounds from the secondary metabolites produced by marine sediment-derived actinobacteria, specifically the <i>Streptomyces</i> genus, using a 600-MHz Nuclear Magnetic Resonance Spectroscopy, and low- and high-resolution mass spectrometry</li>
