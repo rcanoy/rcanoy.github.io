@@ -61,9 +61,9 @@
         </table>
     </p>
     <p>
-      <h3  style="color: RGB(138,139,140)">
+      <h2  style="color: RGB(138,139,140)">
         University Admissions
-      </h3>
+      </h2>
       <table style="width:100%">
         <tr>
           <td>2023</td>
@@ -113,9 +113,9 @@
     </p>
   </p>
   <p>
-    <h3 style="color: RGB(138,139,140)">
+    <h2 style="color: RGB(138,139,140)">
       Peer Review
-    </h3>
+    </h2>
     <table style="width:100%">
       <tr>
         <td>02 Jul 2024</td>
