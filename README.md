@@ -523,7 +523,7 @@
             <tr><td>Watched a Khon Performance at Sala Chalermkrung Royal Theater</td></tr>
             <tr><td>THE Museum of the Human Body, Chulalongkorn University</td></tr>
             <tr><td>Museum Siam</td></tr>
-            <tr><td>THE National Musem Bangkok</td></tr>
+            <tr><td>THE National Museum Bangkok</td></tr>
             <tr><td>THE GRAND PALACE</td></tr>
           </table>
         </td>
