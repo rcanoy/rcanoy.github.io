@@ -524,6 +524,7 @@
             <tr><td>THE Museum of the Human Body, Chulalongkorn University</td></tr>
             <tr><td>Museum Siam</td></tr>
             <tr><td>THE National Museum Bangkok</td></tr>
+            <tr><td>Assumption Cathedral</td></tr>
             <tr><td>THE GRAND PALACE</td></tr>
           </table>
         </td>
