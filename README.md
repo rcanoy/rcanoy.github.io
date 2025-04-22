@@ -606,10 +606,6 @@
       <tr>
         <td>22 Apr 2025</td>
         <td>
-          <a href="https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html">Pope Francis has died on Easter Monday aged 88</a><br>
-          Since Pope Francis has been loved by many, uncertainty drives some to come to confusion. May this night's mourning be filled with hope that the sun shines even brighter tomorrow. But while waiting for the sun to shine from the east, may our wandering be filled with aims that benefit the society and the rest of the humanity. May this witty game allows Us to pass the time of waiting.<br> 
-          <br>
-          <br>
           Solve:<br>
           <math>x = e<sup>(ln(y) - x)</sup></math>
           <br>
@@ -617,6 +613,14 @@
           <math>y = 8cos(60/5) + 10cos(60/5) + [pi/2 + pi/4 - (eps + 1)]</math><br>
           <math>pi = 3.141592653590</math><br>
           <math>eps = 2.490452314449</math><br>
+          -----
+        </td>
+      </tr>
+      <tr>
+        <td>22 Apr 2025</td>
+        <td>
+          <a href="https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html">Pope Francis has died on Easter Monday aged 88</a><br>
+          Since Pope Francis has been loved by many, uncertainty drives some to come to confusion. May this night's mourning be filled with hope that the sun shines even brighter tomorrow. But while waiting for the sun to shine from the east, may our wandering be filled with aims that benefit the society and the rest of the humanity. May this witty game allows Us to pass the time of waiting.<br> 
           -----
         </td>
       </tr>
