@@ -604,7 +604,7 @@
           <br>
           where
           <math>
-            y = 8cos(60/5) + 10cos(60/5) + [&pi/2 + &pi/4 - (&epsilon + 1)]
+            y = 8cos(60/5) + 10cos(60/5) + [pi/2 + pi/4 - (epsilon + 1)]
           </math>
         </td>
       </tr>
