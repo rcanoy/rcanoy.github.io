@@ -611,7 +611,7 @@
           <br>
           <br>
           Solve:<br>
-          <math>x = e<sup>(ln(y) - x)</sup></math>
+          <math>x = exp((ln(y) - x))</math>
           <br>
           where<br>
           <math>y = 8cos(60/5) + 10cos(60/5) + [pi/2 + pi/4 - (eps + 1)]</math><br>
