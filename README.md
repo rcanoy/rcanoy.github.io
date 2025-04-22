@@ -591,9 +591,18 @@
   </p>
   <p>
     <h2 style="color: RGB(138.139,140)">
-      As MEN null hangry, felicitation thou gain
+      AS MEN null hangry, felicitation thou gain
     </h2>
     <table>
+      <tr>
+        <td>22 Apr 2025</td>
+        <td>
+          <ruby>理性他生<rp>(<rp><rt>りせいたしょう</rt></rp>)</rp></ruby><br>
+          日本語: -----<br>
+          한국어: 리송타생<br>
+          -----
+        </td>
+      </tr>
       <tr>
         <td>22 Apr 2025</td>
         <td>
