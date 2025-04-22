@@ -597,10 +597,13 @@
       <tr>
         <td>22 Apr 2025</td>
         <td>
-          Solve:
+          Solve:<br>
           <math>
             x = e<sup>(ln(y) - x)</sup>
           </math>
+          <br>
+          where
+          
         </td>
       </tr>
     </table>
