@@ -603,7 +603,7 @@
           </math>
           <br>
           where<br>
-          <math>y = 8cos(60/5) + 10cos(60/5) + [pi/2 + pi/4 - (eps + 1)]<br>
+          <math>y = 8cos(60/5) + 10cos(60/5) + [pi/2 + pi/4 - (eps + 1)]</math><br>
           <math>pi = 3.141592653590/math><br>
           <math>eps = 2.490452314449</math>  
         </td>
