@@ -602,10 +602,10 @@
             x = e<sup>(ln(y) - x)</sup>
           </math>
           <br>
-          where
+          where<br>
           <math>
-            y = 8cos(60/5) + 10cos(60/5) + [pi/2 + pi/4 - (epsilon + 1)]
-          </math>
+            y = 8cos(60/5) + 10cos(60/5) + [</math>&pi<math>/2</math> + pi/4 - (epsilon + 1)]
+          
         </td>
       </tr>
     </table>
