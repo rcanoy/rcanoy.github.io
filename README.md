@@ -597,6 +597,7 @@
       <tr>
         <td>22 Apr 2025</td>
         <td>
+          <a href="https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html">Pope Francis has died on Easter Monday aged 88</a><br>
           Solve:<br>
           <math>
             x = e<sup>(ln(y) - x)</sup>
