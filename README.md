@@ -599,7 +599,7 @@
         <td>
           One time I have had the opportunity to reflect and ask myself the meaning of <bold>liFE</bold>.<br>
           Pondering has provided infinite possibilities. From these infinite possibilities, one measures and instantaneously arrives at a<br>
-          realisation that liFe equates to pity.<br>
+          realisation that liFE equates to pity.<br>
           <br>
           Browsing through the web, I learnt that pity in Japanese means <ruby>情<rp><rp><rt>なさ</rt></rp></rp></ruby>け. Hard and erratic experiences definitely make this word difficult to comprehend.<br>
          <br>
