@@ -595,6 +595,17 @@
     </h2>
     <table>
       <tr>
+        <td>23 Apr 2025</td>
+        <td>
+          One time I have had the opportunity to reflect and ask myself the meaning of <bold>liFe</bold>.<br>
+          Pondering has provided infinite possibilities. Although confronted with these infinite possibilities, one measures and instantaneously arrives at a<br>
+          realisation that liFe equates to pity.<br>
+          <br>
+          Browsing through the web, I learnt that pity in Japanese means <ruby>情け<rp>(<rp><rt>なさ</rt></rp>)</rp></ruby>
+          
+        </td>
+      </tr>
+      <tr>
         <td>22 Apr 2025</td>
         <td>
           <ruby>理性他生<rp>(<rp><rt>りせいたしょう</rt></rp>)</rp></ruby><br>
