@@ -603,7 +603,7 @@
           <br>
           Browsing through the web, I learnt that pity in Japanese means <ruby>情<rp><rp><rt>なさ</rt></rp></rp></ruby>け. Hard and erratic experiences definitely make this word difficult to comprehend.<br>
          <br>
-          Reflecting again, I am confronted with the dilemma of differentiating <bold>liFE</bold> from <bold>liFe</bold>. Pondering has provided another set of infinite possibilities. This time, <bold>We</bold> measure both to stir chaos. A hard lesson for <bold>Us</bold>.<br>
+          Reflecting again, I am confronted with the dilemma of differentiating <bold>liFE</bold> from <bold>liFe</bold>. Pondering has provided another set of infinite possibilities. This time, <bold>We</bold> measure both words to stir chaos. A hard lesson for <bold>Us</bold>.<br>
           -----
         </td>
       </tr>
