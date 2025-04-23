@@ -597,13 +597,13 @@
       <tr>
         <td>23 Apr 2025</td>
         <td>
-          One time I have had the opportunity to reflect and ask myself the meaning of <bold>liFe</bold>.<br>
+          One time I have had the opportunity to reflect and ask myself the meaning of <bold>liFE</bold>.<br>
           Pondering has provided infinite possibilities. From these infinite possibilities, one measures and instantaneously arrives at a<br>
           realisation that liFe equates to pity.<br>
           <br>
-          Browsing through the web, I learnt that pity in Japanese means <ruby>情<rp>(<rp><rt>なさ</rt></rp>)</rp></ruby>け. Hard and erratic experiences definitely make this word difficult to comprehend.<br>
+          Browsing through the web, I learnt that pity in Japanese means <ruby>情<rp><rp><rt>なさ</rt></rp></rp></ruby>け. Hard and erratic experiences definitely make this word difficult to comprehend.<br>
          <br>
-          Reflecting again, I am confronted with the dilemma of differentiating <bold>liFe</bold> from <bold>liFE</bold>. Pondering has provided another set of infinite possibilities. This time, <bold>We</bold> measure both to stir chaos. A hard lesson for <bold>Us</bold>.<br>
+          Reflecting again, I am confronted with the dilemma of differentiating <bold>liFE</bold> from <bold>liFe</bold>. Pondering has provided another set of infinite possibilities. This time, <bold>We</bold> measure both to stir chaos. A hard lesson for <bold>Us</bold>.<br>
           -----
         </td>
       </tr>
