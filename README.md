@@ -609,7 +609,7 @@
           <br>
           Thailand has always been engraved in me. Grateful <b>do</b> this humble person will always be for the hospitality extended to me by the majestic topography and the anticipating people who serve this majestic country.<br>
           <br>
-          Some have come and stayed. And this <b>ra</b>cy but humble person definitely looks forward to revisiting this THAI country.<br>
+          Some have come and stayed. And this <b>ra</b>cy but humble person definitely looks forward to revisiting this THAI (ไทย) country.<br>
           -----
         </td>
       </tr>
