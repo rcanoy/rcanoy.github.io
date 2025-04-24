@@ -457,18 +457,24 @@
       </tr>
     </table>
   </p>  
-  <p>
+  <p> <!-- Start  -->
+    <!-- Heading of the Travel Section -->
     <h2 style="color:rgb(138,139,140)">
       Travel
     </h2>
+    <!-- Start of the table -->
     <table>
+      <!-- Dec 2024 - Thailand and Malaysia Trip -->
       <tr>
+        <!-- Date Column -->
         <td>Dec 2024</td>
+        <!-- Contents Column -->
         <td>
           <b>Thailand and Malaysia</b>
+          <!-- Table inside the Contents Column -->
           <table>
-            <tr>
-              <td>24-27 Dec 2024</td>
+            <tr> <!-- First Entry -->
+              <td>24-27 Dec 2024</td>  <!-- Date -->
               <td>Bangkok, Thailand
                 <table>
                   <tr><td>Two Kings Monument, Chulalongkorn University</td></tr>
@@ -477,59 +483,57 @@
                 </table>
               </td>
             </tr>
-            <tr>
+            <tr> <!-- Second Entry -->
               <td>22-24 Dec 2024</td>
               <td>George Town, Penang Malaysia</td>
             </tr>
-            <tr>
+            <tr> <!-- Third Entry -->
               <td></td>
               <td>Penang War Museum, Batu Maung, Penang, Malaysia</td>
             </tr>
-            <tr>
+            <tr> <!-- Fourth Entry -->
               <td></td>
               <td>Butterworth, Penang, Malaysia</td>
             </tr>
-            <tr>
+            <tr> <!-- Fifth Entry -->
               <td></td>
               <td>Padang Besar, Malaysia</td>
             </tr>
-        </td>
-      <tr>
-        <td>13-22 Dec 2024</td>
-        <td>Hat Yai, Thailand</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Thai Elephant Conservation Center, Nakhon Lampang, Thailand</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Phra Nakhon Si Ayutthaya, Thailand
-        <table>
-          <tr><td>Wat Rachaburana</td></tr>
-          <tr><td>Wat Maha That</td></tr>
-        </table>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>Bangkok, Thailand 
-          <table>
-            <tr><td>Watched "RIVULET OF UNIVERSE" at HOUSE SAMYAN on 20 Dec 2024 at 18:00 (HOUSE 4 - E8)</td></tr>
-            <tr><td>Siriraj Medical Museum</td></tr>
-            <tr><td>Siriraj Bimuksthan Museum</td></tr>
-            <tr><td>Chao Phraya Express Boat - Yellow Flag and Orange Flag</td></tr>
-            <tr><td>Watched a Khon Performance at Sala Chalermkrung Royal Theater</td></tr>
-            <tr><td>THE Museum of the Human Body, Chulalongkorn University</td></tr>
-            <tr><td>Museum Siam</td></tr>
-            <tr><td>THE National Museum Bangkok</td></tr>
-            <tr><td>Assumption Cathedral</td></tr>
-            <tr><td>THE GRAND PALACE</td></tr>
-          </table>
-        </td>
-      </tr>
-      </tr>
-      </table>
+            <tr> <!-- Sixth Entry -->
+              <td>13-22 Dec 2024</td>
+              <td>Hat Yai, Thailand</td>
+            </tr>
+            <tr> <!-- Seventh Entry -->
+              <td></td>
+              <td>Thai Elephant Conservation Center, Nakhon Lampang, Thailand</td>
+            </tr>
+            <tr> <!-- Eight Entry -->
+              <td></td>
+              <td>Phra Nakhon Si Ayutthaya, Thailand
+                <table>
+                  <tr><td>Wat Rachaburana</td></tr>
+                  <tr><td>Wat Maha That</td></tr>
+                </table></td>
+            </tr>
+            <tr> <!-- Ninth Entry -->
+              <td></td>
+              <td>Bangkok, Thailand 
+                <table>
+                  <tr><td>Watched "RIVULET OF UNIVERSE" at HOUSE SAMYAN on 20 Dec 2024 at 18:00 (HOUSE 4 - E8)</td></tr>
+                  <tr><td>Siriraj Medical Museum</td></tr>
+                  <tr><td>Siriraj Bimuksthan Museum</td></tr>
+                  <tr><td>Chao Phraya Express Boat - Yellow Flag and Orange Flag</td></tr>
+                  <tr><td>Watched a Khon Performance at Sala Chalermkrung Royal Theater</td></tr>
+                  <tr><td>THE Museum of the Human Body, Chulalongkorn University</td></tr>
+                  <tr><td>Museum Siam</td></tr>
+                  <tr><td>THE National Museum Bangkok</td></tr>
+                  <tr><td>Assumption Cathedral</td></tr>
+                  <tr><td>THE GRAND PALACE</td></tr>
+                </table></td>
+            </tr>
+        </td> <!-- End of the Contents Column -->
+      </tr> <!-- End of the Thailand and Malaysia Entry -->
+      <!-- Jan 2023 - South Korea Trip -->
       <tr>
         <td>Jan 2023</td>
         <td>Seoul, Republic of Korea</td>
