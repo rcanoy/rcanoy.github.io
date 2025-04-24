@@ -607,9 +607,9 @@
           <br>
           Oh, my eyes have never been blurred while seeing the luster of its mounding and bulging landscapes. But when one fell on its mire, surely moans of sweet dismay echo its every corner. Tainted by its wet mud, one can only hope that no same traumatic drama may occur.<br>
           <br>
-          Thailand has always been engraved in me. Grateful this humble person will always be for the hospitality extended to me by the majestic topography and the anticipating people who serve this majestic country.<br>
+          Thailand has always been engraved in me. Grateful <b>do</b> this humble person will always be for the hospitality extended to me by the majestic topography and the anticipating people who serve this majestic country.<br>
           <br>
-          Some have come and stayed. This humble person definitely looks forward to revisiting this country.<br>
+          Some have come and stayed. And this <b>ra</b>cy but humble person definitely looks forward to revisiting this THAI country.<br>
           -----
         </td>
       </tr>
