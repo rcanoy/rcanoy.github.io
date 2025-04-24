@@ -531,6 +531,7 @@
                   <tr><td>THE GRAND PALACE</td></tr>
                 </table></td>
             </tr>
+          </table>  
         </td> <!-- End of the Contents Column -->
       </tr> <!-- End of the Thailand and Malaysia Entry -->
       <!-- Jan 2023 - South Korea Trip -->
