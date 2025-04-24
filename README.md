@@ -464,7 +464,8 @@
     <table>
       <tr>
         <td>Dec 2024</td>
-        <td><b>Thailand and Malaysia</b>
+        <td>
+          <b>Thailand and Malaysia</b>
           <table>
             <tr>
               <td>24-27 Dec 2024</td>
@@ -492,7 +493,6 @@
               <td></td>
               <td>Padang Besar, Malaysia</td>
             </tr>
-          </table>
         </td>
       <tr>
         <td>13-22 Dec 2024</td>
@@ -529,6 +529,7 @@
         </td>
       </tr>
       </tr>
+      </table>
       <tr>
         <td>Jan 2023</td>
         <td>Seoul, Republic of Korea</td>
@@ -603,6 +604,7 @@
           <br>
           Thailand has always been engraved in me. Grateful this humble person will always be for the hospitality extended to me by the majestic topography and the anticipating people who serve this majestic country.<br>
           Some have come and stayed. This humble person definitely looks forward to revisiting this country. 
+          -----
         </td>
       </tr>
       <tr>
