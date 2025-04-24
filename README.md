@@ -494,7 +494,6 @@
             </tr>
           </table>
         </td>
-      </tr>
       <tr>
         <td>13-22 Dec 2024</td>
         <td>Hat Yai, Thailand</td>
@@ -528,6 +527,7 @@
             <tr><td>THE GRAND PALACE</td></tr>
           </table>
         </td>
+      </tr>
       </tr>
       <tr>
         <td>Jan 2023</td>
@@ -594,6 +594,17 @@
       AS MEN null hangry, felicitation thou gain
     </h2>
     <table>
+      <tr>
+        <td>24 Apr 2025</td>
+        <td>
+          Thailand is <b>ren</b>owned for its rich history, culture, and tradition as depicted in the wholeheartedly laboured arts exhibited in THE GRAND PALACE. For six days and more, the eternal bliss emanates from the handsome garden of what surely that country relies upon.<br>
+          <br>
+          Oh, my eyes have never been blurred while seeing the luster of its mounding and bulging landscapes. But when one fell on its mire, surely moans of sweet dismay echo its every corner. Tainted by its wet mud, one can only hope that no same traumatic drama may occur.<br>
+          <br>
+          Thailand has always been engraved in me. Grateful this humble person will always be for the hospitality extended to me by the majestic topography and the anticipating people who serve this majestic country.<br>
+          Some have come and stayed. This humble person definitely looks forward to revisiting this country. 
+        </td>
+      </tr>
       <tr>
         <td>23 Apr 2025</td>
         <td>
