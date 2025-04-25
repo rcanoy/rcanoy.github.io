@@ -601,6 +601,10 @@
     </h2>
     <table>
       <tr>
+        <td>25 Apr 2025</td>
+        <td><ruby>翻今<rp>(<rp><rt>ほんこん</rt></rp>)</rp></ruby>: <ruby>四<rp>(<rp><rt>よん</rt></rp>)</rp></ruby>だい</td>
+      </tr>
+      <tr>
         <td>24 Apr 2025</td>
         <td>
           Thailand is <b>ren</b>owned for its rich history, culture, and tradition as depicted in the wholeheartedly laboured arts exhibited in THE GRAND PALACE. For six days and more, the eternal bliss emanates from the handsome garden of what surely that country relies upon.<br>
