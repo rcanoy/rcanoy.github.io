@@ -602,7 +602,10 @@
     <table>
       <tr>
         <td>25 Apr 2025</td>
-        <td><ruby>翻今<rp><rp><rt>ほんこん</rt></rp></rp></ruby>: <ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>だい</td>
+        <td><ruby>翻今<rp><rp><rt>ほんこん</rt></rp></rp></ruby>: <ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>だい<br>
+        <br>
+          <ruby>巴打<rp><rp><rt>ばだーす</rt></rp></rp></ruby>
+        </td>
       </tr>
       <tr>
         <td>24 Apr 2025</td>
