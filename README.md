@@ -606,6 +606,9 @@
           だい
           <ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>
           え<ruby>出<rp><rp><rt>だ</rt></rp></rp></ruby><br>
+          <br>
+          <ruby>權利和自由<rp><rp><rt>ごんりわじゆう</rt></rp></rp><ruby><br>
+          <br>
         </td>
       </tr>
       <tr>
