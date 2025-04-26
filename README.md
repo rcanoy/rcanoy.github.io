@@ -607,7 +607,11 @@
           <ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>
           え<ruby>出<rp><rp><rt>だ</rt></rp></rp></ruby><br>
           <br>
-          <ruby>權利和自由<rp><rp><rt>ごんりわじゆう</rt></rp></rp><ruby><br>
+          <ruby>權<rp><rp><rt>ごん</rt></rp></rp></ruby>
+          <ruby>利<rp><rp><rt>り</rt></rp></rp></ruby>
+          <ruby>和<rp><rp><rt>わ</rt></rp></rp></ruby>
+          <ruby>自<rp><rp>じ<rt></rt></rp></rp></ruby>
+          <ruby>由<rp><rp><rt>ゆう</rt></rp></rp></ruby><br>
           <br>
         </td>
       </tr>
