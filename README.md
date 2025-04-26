@@ -619,6 +619,12 @@
           <ruby>持<rp><rp><rt>じ</rt></rp></rp></ruby>
           <ruby>優<rp><rp><rt>ゆう</rt></rp></rp></ruby><br>
           <br>
+          <ruby>厳<rp><rp><rt>ごん</rt></rp></rp></ruby>
+          <ruby>例<rp><rp><rt>れい</rt></rp></rp></ruby>
+          <ruby>話<rp><rp><rt>わ</rt></rp></rp></ruby>
+          <ruby>重<rp><rp><rt>じゅう</rt></rp></rp></ruby><br>
+          <br>
+          -----
         </td>
       </tr>
       <tr>
