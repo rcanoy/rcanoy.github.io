@@ -601,6 +601,9 @@
     </h2>
     <table>
       <tr>
+        <td>26 Apr 2025</td>
+      </tr>
+      <tr>
         <td>25 Apr 2025</td>
         <td><ruby>翻今<rp><rp><rt>ほんこん</rt></rp></rp></ruby>: <ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>だい<br>
         <br>
