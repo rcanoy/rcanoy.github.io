@@ -602,6 +602,11 @@
     <table>
       <tr>
         <td>26 Apr 2025</td>
+        <td>
+          だい
+          <ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>
+          え<ruby>出<rp><rp><rt>だ</rt></rp></rp></ruby><br>
+        </td>
       </tr>
       <tr>
         <td>25 Apr 2025</td>
