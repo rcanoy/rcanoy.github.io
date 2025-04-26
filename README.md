@@ -601,6 +601,20 @@
     </h2>
     <table>
       <tr>
+        <td>26 Apr 2025</td>
+        <td>
+          だい<ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>え出<ruby><rp><rp><rt>だ</rt></rp></rp></ruby><br>
+          <br>
+          <ruby>權利和自由<rp><rp><rt>ごんりわじゆう</rt></rp></rp><ruby><br>
+          <br>
+          <ruby>言理<rp><rp><rt>ごんり</rt></rp></rp></ruby>は<ruby>持優<rp><rp><rt>じゆう</rt></rp></rp></ruby><br>
+          <br>
+          <ruby>厳例話重<rp><rp><rt>ごんれいわじゅう</rt></rp></rp></ruby><br>
+          <br>
+          -----  
+        </td>
+      </tr>
+      <tr>
         <td>25 Apr 2025</td>
         <td><ruby>翻今<rp><rp><rt>ほんこん</rt></rp></rp></ruby>: <ruby>四<rp><rp><rt>よん</rt></rp></rp></ruby>だい<br>
         <br>
