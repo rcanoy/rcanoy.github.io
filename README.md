@@ -610,8 +610,14 @@
           <ruby>權<rp><rp><rt>ごん</rt></rp></rp></ruby>
           <ruby>利<rp><rp><rt>り</rt></rp></rp></ruby>
           <ruby>和<rp><rp><rt>わ</rt></rp></rp></ruby>
-          <ruby>自<rp><rp>じ<rt></rt></rp></rp></ruby>
+          <ruby>自<rp><rp><rt>じ</rt></rp></rp></ruby>
           <ruby>由<rp><rp><rt>ゆう</rt></rp></rp></ruby><br>
+          <br>
+          <ruby>言<rp><rp><rt>ごん</rt></rp></rp></ruby>
+          <ruby>理<rp><rp><rt>り</rt></rp></rp></ruby>
+          は
+          <ruby>持<rp><rp><rt>じ</rt></rp></rp></ruby>
+          <ruby>優<rp><rp><rt>ゆう</rt></rp></rp></ruby><br>
           <br>
         </td>
       </tr>
