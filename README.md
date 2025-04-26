@@ -609,7 +609,7 @@
           <ruby>權利和自由<rp><rp><rt>ごんりわじゆう</rt></rp></rp><ruby><br>
           <br>
           <br>  
-          <ruby>言理<rp><rp><rt>ごんり</rt></rp></rp></ruby>は<ruby>持<rp><rp><rt>じ</rt></rp></rp></ruby><br><ruby>優<rp><rp><rt>ゆう</rt></rp></rp></ruby>
+          <ruby>言理<rp><rp><rt>ごんり</rt></rp></rp></ruby>は<ruby>持<rp><rp><rt>じ</rt></rp></rp></ruby><ruby>優<rp><rp><rt>ゆう</rt></rp></rp></ruby><br>
           <br>
           <br>  
           <ruby>厳例話重<rp><rp><rt>ごんれいわじゅう</rt></rp></rp></ruby><br>
