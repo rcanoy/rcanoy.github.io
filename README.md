@@ -601,6 +601,17 @@
     </h2>
     <table>
       <tr>
+        <ruby>問<rp><rp><rt>と</rt></rp></rp></ruby>
+        う
+        <ruby>強<rp><rp><rt>きょう</rt></rp></rp></ruby>
+        <ruby>題<rp><rp><rt>だい</rt></rp></rp></ruby>
+        が
+        <ruby>功<rp><rp><rt>く</rt></rp></rp></ruby>
+        <ruby>人<rp><rp><rt>と</rt></rp></rp></ruby>ruby>
+        <ruby>想<rp><rp><rt>おも</rt></rp></rp></ruby>
+        います。
+      </tr>
+      <tr>
         <td>26 Apr 2025</td>
         <td>
           だい
