@@ -611,7 +611,9 @@
         <ruby>功<rp><rp><rt>く</rt></rp></rp></ruby>
         <ruby>人<rp><rp><rt>と</rt></rp></rp></ruby>
         <ruby>想<rp><rp><rt>おも</rt></rp></rp></ruby>
-        います。
+        います。<br>
+        <br>
+        -----  
         </td>
       </tr>
       <tr>
