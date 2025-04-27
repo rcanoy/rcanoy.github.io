@@ -601,7 +601,7 @@
     </h2>
     <table>
       <tr>
-        <td>26 Apr 2025</td>
+        <td>27 Apr 2025</td>
         <td>
         <ruby>問<rp><rp><rt>と</rt></rp></rp></ruby>
         う
