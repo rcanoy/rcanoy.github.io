@@ -624,6 +624,8 @@
           <ruby>穏<rp><rp><rt>おん</rt></rp></rp></ruby>
           <ruby>己<rp><rp><rt>な</rt></rp></rp></ruby>
            の
+          <ruby>功<rp><rp><rt>く</rt></rp></rp></ruby>
+          の
           <ruby>人<rp><rp><rt>ひと</rt></rp></rp></ruby>
           を
           <ruby>考<rp><rp><rt>かんが</rt></rp></rp></ruby>
@@ -633,6 +635,8 @@
           <ruby>方<rp><rp><rt>ほう</rt></rp></rp></ruby>
           には
           メ
+          の
+          <ruby>功<rp><rp><rt>く</rt></rp></rp></ruby>
           の
           <ruby>人<rp><rp><rt>ひと</rt></rp></rp></ruby>
           を
