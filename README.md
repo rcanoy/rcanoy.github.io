@@ -601,6 +601,48 @@
     </h2>
     <table>
       <tr>
+        <td>28 Apr 2025</td>
+        <td>
+          だいに
+          <ruby>重<rp><rp><rt>じゅう</rt></rp></rp></ruby>
+          <ruby>要<rp><rp><rt>よう</rt></rp></rp></ruby>
+          <ruby>条<rp><rp><rt>じょう</rt></rp></rp></ruby><br>
+          <br>
+          <ruby>賢方<rp><rp><rt>けんほう</rt></rp></rp></ruby>
+          には
+          "<ruby>苦<rp><rp><rt>く</rt></rp></rp></ruby>
+          ノー"の
+          <ruby>功<rp><rp><rt>く</rt></rp></rp></ruby>
+          の
+          <ruby>人<rp><rp><rt>ひと</rt></rp></rp></ruby>
+          を
+          <ruby>考<rp><rp><rt>かんが</rt></rp></rp></ruby>
+          える。<br>
+          <br>
+          <ruby>賢方<rp><rp><rt>けんほう</rt></rp></rp></ruby>
+          には
+          <ruby>穏<rp><rp><rt>おん</rt></rp></rp></ruby>
+          <ruby>己<rp><rp><rt>な</rt></rp></rp></ruby>
+           の
+          <ruby>人<rp><rp><rt>ひと</rt></rp></rp></ruby>
+          を
+          <ruby>考<rp><rp><rt>かんが</rt></rp></rp></ruby>
+          える。<br>
+          <br>
+          <ruby>賢<rp><rp><rt>けん</rt></rp></rp></ruby>
+          <ruby>方<rp><rp><rt>ほう</rt></rp></rp></ruby>
+          には
+          メ
+          の
+          <ruby>人<rp><rp><rt>ひと</rt></rp></rp></ruby>
+          を
+          <ruby>考<rp><rp><rt>かんが</rt></rp></rp></ruby>
+          える。<br>
+          <br>
+          -----
+        </td>
+      </tr>
+      <tr>
         <td>27 Apr 2025</td>
         <td>
         <ruby>問<rp><rp><rt>と</rt></rp></rp></ruby>
