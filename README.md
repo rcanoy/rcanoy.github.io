@@ -601,6 +601,29 @@
     </h2>
     <table>
       <tr>
+        <td>29 Apr 2025</td>
+        <td>
+        <b><i>H</i></b>ard-earned <b><i>k</i></b>nowledge <b>i</b>s <b>m</b>aking <b>c</b>onvoluted <b>a</b>ctions <b>t</b>o <b>p</b>resent <b>t</b>hemselves <b>s</b>o <b>u</b>ntwisted. First, to boldly let terse nuances arouse, one grittily comes to make other boldly lit errs purringly ejected from oneself. One can try to seize 'em, the basic law guarantees and keeps on her kit. But her kit sits on its free comic value rather than on <i>politesse</i>.<br> 
+        Art curate thou "tree of hard-earned knowledge" so that one mind prevents bad arts from seducing warring emotions within oneself. Nevertheless, as men ponder on these bold lit errs, let this racy but humble person pique thee through this maxim babbling:<br>
+        <br>
+         <ruby>覇<rp><rp><rt>は</rt></rp></rp></ruby> 
+         <ruby>津<rp><rp><rt>つ</rt></rp></rp></ruby> 
+         が<br>
+         <ruby>惣<rp><rp><rt>そう</rt></rp></rp></ruby> 
+         <ruby>定<rp><rp><rt>じょう</rt></rp></rp></ruby>
+         だ。<br>
+         <br>
+         <ruby>御<rp><rp><rt>ご</rt></rp></rp></ruby>
+         <ruby>語<rp><rp><rt>ご</rt></rp></rp></ruby>
+         <ruby>象<rp><rp><rt>しょう</rt></rp></rp></ruby>
+         <ruby>情<rp><rp><rt>じょう</rt></rp></rp></ruby><br>
+         <br>
+         After this night's wandering, this racy but humble person hopes to witnessing this: <a href="https://umag.hku.hk/exhibition/8-times-8-stories-series-systems-in-mythology-and-art/">八八相乘</a><br>
+        <br>
+        -----
+        </td>
+      </tr>
+      <tr>
         <td>28 Apr 2025</td>
         <td>
           だいに
