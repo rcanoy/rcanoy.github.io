@@ -610,8 +610,8 @@
           <br>
           <ruby>賢方<rp><rp><rt>けんぽう</rt></rp></rp></ruby>
           には
-          "<ruby>苦<rp><rp><rt>く</rt></rp></rp></ruby>
-          ノー"の
+          <ruby>苦<rp><rp><rt>く</rt></rp></rp></ruby>
+          ノーの
           <ruby>功<rp><rp><rt>く</rt></rp></rp></ruby>
           の
           <ruby>人<rp><rp><rt>ひと</rt></rp></rp></ruby>
