@@ -608,7 +608,7 @@
           <ruby>要<rp><rp><rt>よう</rt></rp></rp></ruby>
           <ruby>条<rp><rp><rt>じょう</rt></rp></rp></ruby><br>
           <br>
-          <ruby>賢方<rp><rp><rt>けんほう</rt></rp></rp></ruby>
+          <ruby>賢方<rp><rp><rt>けんぽう</rt></rp></rp></ruby>
           には
           "<ruby>苦<rp><rp><rt>く</rt></rp></rp></ruby>
           ノー"の
@@ -619,7 +619,7 @@
           <ruby>考<rp><rp><rt>かんが</rt></rp></rp></ruby>
           える。<br>
           <br>
-          <ruby>賢方<rp><rp><rt>けんほう</rt></rp></rp></ruby>
+          <ruby>賢方<rp><rp><rt>けんぽう</rt></rp></rp></ruby>
           には
           <ruby>穏<rp><rp><rt>おん</rt></rp></rp></ruby>
           <ruby>己<rp><rp><rt>な</rt></rp></rp></ruby>
@@ -632,7 +632,7 @@
           える。<br>
           <br>
           <ruby>賢<rp><rp><rt>けん</rt></rp></rp></ruby>
-          <ruby>方<rp><rp><rt>ほう</rt></rp></rp></ruby>
+          <ruby>方<rp><rp><rt>ぽう</rt></rp></rp></ruby>
           には
           メ
           の
