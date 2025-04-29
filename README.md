@@ -631,8 +631,7 @@
           <ruby>考<rp><rp><rt>かんが</rt></rp></rp></ruby>
           える。<br>
           <br>
-          <ruby>賢<rp><rp><rt>けん</rt></rp></rp></ruby>
-          <ruby>方<rp><rp><rt>ぽう</rt></rp></rp></ruby>
+          <ruby>賢方<rp><rp><rt>けんぽう</rt></rp></rp></ruby>
           には
           メ
           の
