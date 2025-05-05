@@ -601,6 +601,29 @@
     </h2>
     <table>
       <tr>
+        <td>05 May 2025</td>
+        <td>
+          <ruby>八<rp><rp><rt>はち</rt></rt></rp></rp></ruby><br>
+          <br>
+          <ruby>方<rp><rp><rt>ぽう</rt></rp></rp><ruby>
+          <ruby>等<rp><rp><rt>ら</rt></rp></rp></ruby>
+          <ruby>素<rp><rp><rt>す</rt></rp></rp></ruby>
+          <ruby>曰<rp><rp><rt>じ</rt></rp></rp></ruby><br>
+          <br>
+          <ruby>歩rp><rp><rt>ぶ</rt></rp></rp><ruby>
+          <ruby>羅<rp><rp><rt>ら</rt></rp></rp></ruby>
+          <ruby>手<rp><rp><rt>ず</rt></rp></rp></ruby>
+          <ruby>四<rp><rp><rt>し</rt></rp></rp></ruby><br>
+          <br>  
+          <ruby>保rp><rp><rt>ほう</rt></rp></rp><ruby>
+          <ruby>裏<rp><rp><rt>り</rt></rp></rp></ruby>
+          <ruby>是<rp><rp><rt>ぜ</rt></rp></rp></ruby>
+          <ruby>音<rp><rp><rt>いん</rt></rp></rp></ruby><br>
+          <br>
+          -----  
+        </td>
+      </tr>
+      <tr>
         <td>29 Apr 2025</td>
         <td>
         <b><i>H</i></b>ard-earned <b><i>k</i></b>nowledge <b>i</b>s <b>m</b>aking <b>c</b>onvoluted <b>a</b>ctions <b>t</b>o <b>p</b>resent <b>t</b>hemselves <b>s</b>o <b>u</b>ntwisted. First, to boldly let terse nuances arouse, one grittily comes to make other boldly lit errs purringly ejected from oneself. One can try to seize 'em, the basic law guarantees and keeps on her kit. But her kit sits on its free comic value rather than on <i>politesse</i>.<br> 
