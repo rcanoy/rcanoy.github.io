@@ -603,7 +603,7 @@
       <tr>
         <td>05 May 2025</td>
         <td>
-          <ruby>八<rp><rp><rt>はち</rt></rt></rp></rp></ruby><br>
+          <ruby>八<rp><rp><rt>はち</rt></rp></rp></rp></ruby><br>
           <br>
           <ruby>方<rp><rp><rt>ぽう</rt></rp></rp></ruby>
           <ruby>等<rp><rp><rt>ら</rt></rp></rp></ruby>
