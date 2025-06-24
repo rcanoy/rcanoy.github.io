@@ -601,11 +601,6 @@
     </h2>
     <table>
       <tr>
-        <td> 24 June 2025<td>
-        <td>
-        </td>  
-      </tr>
-      <tr>
         <td>05 May 2025</td>
         <td>
           <ruby>八<rp><rp><rt>はち</rt></rp></rp></ruby><br>
