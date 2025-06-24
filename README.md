@@ -601,6 +601,16 @@
     </h2>
     <table>
       <tr>
+        <td> 24 June 2025<td>
+        <td>
+          <b><ruby>問<rp><rp><rt>と</rt></rp></rp></ruby>う<ruby>強<rp><rp><rt>きょう</rt></rp></rp></rp></ruby><ruby>題rp><rp><rt>だい</rt></rp></rp></rp></ruby>が<ruby>功<rp><rp><rt>く</rt></rp></rp></rp></ruby><ruby>人<rp><rp><rt>と</rt></rp></rp></rp></ruby>なる</ruby><ruby>20歳<rp><rp><rt>はたち</rt></rp></rp></rp></ruby>のため: <ruby>成rp><rp><rt>せい</rt></rp></rp></rp></ruby><ruby>功rp><rp><rt>こう</rt></rp></rp></rp></ruby><ruby>而rp><rp><rt>じ</rt></rp></rp></rp></ruby><ruby>而<rp><rp><rt>りつ</rt></rp></rp></rp></ruby>に<ruby>就rp><rp><rt>つ</rt></rp></rp></rp></ruby>いていきた<ruby>旬<rp><rp><rt>じゅん</rt></rp></rp></rp></ruby></b><br>
+          -----
+        <br>
+        <br>
+          <b>음덕에 쑥쑥 벋어 있는 20때이여: 성공적인 30때가 될 한철</b>
+          -----
+      <tr>
+      <tr>
         <td>05 May 2025</td>
         <td>
           <ruby>八<rp><rp><rt>はち</rt></rp></rp></ruby><br>
