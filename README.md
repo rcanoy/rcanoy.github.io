@@ -21,7 +21,7 @@
       <b>About</b>
     </h2>
     <p>
-      Currently having a <b>gap year</b> starting </b>September 2024</b> ----- <br>
+      Currently having a <b style="color: rgb(163,31,52)">gap year</b> starting <b>September 2024</b> ----- <br>
       See link for the <a href="https://www.linkedin.com/in/recanoy">accomplishments</a> during the gap year -----
     </p>
   </p>
