@@ -626,7 +626,8 @@
         Running a gauntlet thee says.<br>
         Remote this struggle<br>
         Still to pious <i>mens</i>.<br>
-        Ergo, ten ears pursue <b>one</b><br>  
+        Ergo, ten ears pursue <b>one</b><br>
+        Who guides <b>Us</b> to the builders<br>  
         </td>  
       </tr>  
       <tr>
