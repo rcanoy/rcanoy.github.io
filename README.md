@@ -618,7 +618,9 @@
         <i>Nay</i> act turns ten lives swirling around it<br>
         To sodding defiance unknown to pious <i>mens</i>.<br>
         Defiance leads one to wandering aims.<br> 
-        Aims that steer this society to hapless ends.<br>  
+        Aims that steer this society to hapless ends.<br>
+        Fellow, grab your chins<br>
+        For <i>nay</i> acts still lead to it.<br> 
         </td>  
       </tr>  
       <tr>
