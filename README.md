@@ -623,7 +623,9 @@
         For <i>nay</i> acts still lead to <i>it</i>.<br>
         Unending this idle wandering<br>
         Still unknown to pious <i>mens</i>.<br>
-        Running a <i>gaunt<i>let thee says<br>
+        Running a <i>gaunt</i>let thee says.<br>
+        Remote this struggle<br>
+        Still to pious <i>mens</i>.  
         </td>  
       </tr>  
       <tr>
