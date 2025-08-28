@@ -611,10 +611,11 @@
     <table>
       <tr>
         <td>28 August 2025</td>
-        <td><b><i>O omne auctor</i></b></td><br>
+        <td><b><i>O omne auctor</i></b><br>
         -----<br>
         <br>
         <i>Flaunt ostentum est. Id est.</i><br>
+        </td>  
       </tr>  
       <tr>
         <td>24 June 2025</td>
