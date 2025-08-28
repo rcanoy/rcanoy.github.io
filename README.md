@@ -610,29 +610,6 @@
     </h2>
     <table>
       <tr>
-        <td>28 August 2025</td>
-        <td>
-          <b><i>O omne auctor</i></b><br>
-          -----<br>
-          <br>
-          「<i>Flaunt</i>」<i>ostentum est</i>. <i>Id est.</i><br>
-          <i>Nay<i> act turns ten lives swirling around it<br>
-          To sodding defiance unknown to pious <i>mens</i>.<br>
-          Defiance leads one to wandering aims.<br>
-          Aims that steer this society to hapless ends.<br>
-          Fellow, grab your chins<br>
-          For <i>nay</i> acts still lead to it.<br>
-          Unending this idle wandering<br>
-          Still unknown to pious <i>mens</i>.<br>
-          Running a gauntlet thee says.<br>
-          Remote this struggle<br> 
-          Still to pious <i>mens</i>.<br>
-          Ergo, ten ears pursue <b>one</b><br>
-          Who guides <b>Us</b> to the builders<br>
-          Long-desired <i>nay</i> ultimate end.<br>
-        </td>
-      </tr>
-      <tr>
         <td>24 June 2025</td>
         <td>
           <b><ruby>問<rp><rp><rt>と</rt></rp></rp></ruby>う<ruby>強<rp><rp><rt>きょう</rt></rp></rp></ruby><ruby>題<rp><rp><rt>だい</rt></rp></rp></ruby>が<ruby>功<rp><rp><rt>く</rt></rp></rp></ruby><ruby>人<rp><rp><rt>と</rt></rp></rp></ruby>なる<ruby>20歳<rp><rp><rt>はたち</rt></rp></rp></ruby>のため: <ruby>成<rp><rp><rt>せい</rt></rp></rp></ruby><ruby>功<rp><rp><rt>こう</rt></rp></rp></ruby>させる<ruby>而<rp><rp><rt>じ</rt></rp></rp></ruby><ruby>立<rp><rp><rt>りつ</rt></rp></rp></ruby>に<ruby>就<rp><rp><rt>つ</rt></rp></rp></ruby>いていきた<ruby>旬<rp><rp><rt>じゅん</rt></rp></rp></ruby></b><br>
