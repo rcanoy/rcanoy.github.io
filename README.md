@@ -627,7 +627,8 @@
         Remote this struggle<br>
         Still to pious <i>mens</i>.<br>
         Ergo, ten ears pursue <b>one</b><br>
-        Who guides <b>Us</b> to the builders<br>  
+        Who guides <b>Us</b> to the builders<br>
+        Long-desired <i>nay</i> ultimate end.<br>  
         </td>  
       </tr>  
       <tr>
