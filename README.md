@@ -625,7 +625,8 @@
         Still unknown to pious <i>mens</i>.<br>
         Running a gauntlet thee says.<br>
         Remote this struggle<br>
-        Still to pious <i>mens</i>.  
+        Still to pious <i>mens</i>.
+        Ergo, ten ears pursue <b>one</b><br>  
         </td>  
       </tr>  
       <tr>
