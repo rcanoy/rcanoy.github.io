@@ -624,6 +624,7 @@
         Unending this idle wandering<br>
         Still unknown to pious <i>mens</i>.<br>
         Running a gauntlet thee says.<br>
+        Remote this struggle<br>  
         </td>  
       </tr>  
       <tr>
