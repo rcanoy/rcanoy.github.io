@@ -615,7 +615,7 @@
           <b><i>O omne auctor</i></b><br>
           -----<br>
           <br>
-          「<i>Flaunt</i>」<i>ostentum est. Id est.</i><br>
+          「<i>Flaunt</i>」<i>ostentum est</i>. <i>Id est.</i><br>
           <i>Nay<i> act turns ten lives swirling around it<br>
           To sodding defiance unknown to pious <i>mens</i>.<br>
           Defiance leads one to wandering aims.<br>
