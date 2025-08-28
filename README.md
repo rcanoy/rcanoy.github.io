@@ -623,6 +623,7 @@
         For <i>nay</i> acts still lead to <i>it</i>.<br>
         Unending this idle wandering<br>
         Still unknown to pious <i>mens</i>.<br>
+        Running a gauntlet thee says.<br>
         </td>  
       </tr>  
       <tr>
