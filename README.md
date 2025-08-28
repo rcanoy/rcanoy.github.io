@@ -615,6 +615,7 @@
           <b><i>O omne auctor</i></b><br>
           -----<br>
           <br>
+          「<i>Flaunt</i>」<i>ostentum est. Id est.</i><br>
         </td>
       </tr> 
       <tr>
