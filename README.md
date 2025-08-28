@@ -620,7 +620,7 @@
         Defiance leads one to wandering aims.<br> 
         Aims that steer this society to hapless ends.<br>
         Fellow, grab your chins<br>
-        For <i>nay</i> acts still lead to it.<br> 
+        For <i>nay</i> acts still lead to <i>it</i>.<br> 
         </td>  
       </tr>  
       <tr>
