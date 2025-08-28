@@ -615,6 +615,7 @@
         -----<br>
         <br>
         <i>Flaunt ostentum est. Id est.</i><br>
+        <i>Nay</i> act turns ten lives swirling around it<br>  
         </td>  
       </tr>  
       <tr>
