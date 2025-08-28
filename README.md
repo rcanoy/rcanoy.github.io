@@ -622,7 +622,8 @@
         Fellow, grab your chins<br>
         For <i>nay</i> acts still lead to <i>it</i>.<br>
         Unending this idle wandering<br>
-        Still unknown to pious <i>mens</i>.  
+        Still unknown to pious <i>mens</i>.<br>
+        Running a <i>gaunt<i>let thee says<br>
         </td>  
       </tr>  
       <tr>
