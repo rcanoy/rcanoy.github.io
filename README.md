@@ -610,6 +610,12 @@
     </h2>
     <table>
       <tr>
+        <td>28 August 2025</td>
+        <td>
+          -----
+        </td>
+      </tr> 
+      <tr>
         <td>24 June 2025</td>
         <td>
           <b><ruby>問<rp><rp><rt>と</rt></rp></rp></ruby>う<ruby>強<rp><rp><rt>きょう</rt></rp></rp></ruby><ruby>題<rp><rp><rt>だい</rt></rp></rp></ruby>が<ruby>功<rp><rp><rt>く</rt></rp></rp></ruby><ruby>人<rp><rp><rt>と</rt></rp></rp></ruby>なる<ruby>20歳<rp><rp><rt>はたち</rt></rp></rp></ruby>のため: <ruby>成<rp><rp><rt>せい</rt></rp></rp></ruby><ruby>功<rp><rp><rt>こう</rt></rp></rp></ruby>させる<ruby>而<rp><rp><rt>じ</rt></rp></rp></ruby><ruby>立<rp><rp><rt>りつ</rt></rp></rp></ruby>に<ruby>就<rp><rp><rt>つ</rt></rp></rp></ruby>いていきた<ruby>旬<rp><rp><rt>じゅん</rt></rp></rp></ruby></b><br>
