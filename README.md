@@ -617,7 +617,8 @@
         <b>Flaunt</b> <i>ostentum est. Id est.</i><br>
         <i>Nay</i> act turns ten lives swirling around it<br>
         To sodding defiance unknown to pious <i>mens</i>.<br>
-        Defiance leads one to wandering aims.<br>  
+        Defiance leads one to wandering aims.<br> 
+        Aims that steer this society to hapless ends.<br>  
         </td>  
       </tr>  
       <tr>
