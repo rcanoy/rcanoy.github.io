@@ -620,7 +620,7 @@
           To sodding defiance unknown to pious <i>mens</i>.<br>
           Defiance leads one to wandering aims.<br>
           Aims that steer this society to hapless ends.<br>
-          Felllow, grab your chins<br>
+          Fellow, grab your chins<br>
           For <i>nay</i> acts still lead to it.<br>
           Unending this idle wandering<br>
           Still unknown to pious <i>mens</i>.<br>
