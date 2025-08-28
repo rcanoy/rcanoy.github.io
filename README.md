@@ -612,7 +612,9 @@
       <tr>
         <td>28 August 2025</td>
         <td>
-          -----
+          <b><i>O omne auctor</i></b><br>
+          -----<br>
+          <br>
         </td>
       </tr> 
       <tr>
