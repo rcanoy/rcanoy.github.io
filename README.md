@@ -614,8 +614,9 @@
         <td><b><i>O omne auctor</i></b><br>
         -----<br>
         <br>
-        <i>Flaunt ostentum est. Id est.</i><br>
-        <i>Nay</i> act turns ten lives swirling around it<br>  
+        <b>Flaunt</b> <i>ostentum est. Id est.</i><br>
+        <i>Nay</i> act turns ten lives swirling around it<br>
+        To sodding defiance unknown to pious <i>mens</i>.<br>  
         </td>  
       </tr>  
       <tr>
