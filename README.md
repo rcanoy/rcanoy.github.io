@@ -615,7 +615,21 @@
           <b><i>O omne auctor</i></b><br>
           -----<br>
           <br>
-          「<i>Flaunt</i>」<i>ostentum est. Id est.</i><br>
+          <b><i>Flaunt</i><b> <i>ostentum est. Id est.</i><br>
+          <i>Nay</i> act turns ten lives swirling around it<br>
+          To sodding defiance unknown to pious <i>mens</i>.<br>
+          Defiance leads one to wandering aims.<br>
+          Aims that steer this society to hapless ends.<br>
+          Felllow, grab your chins<br>
+          For <i>nay</i> acts still lead to it.<br>
+          Unending this idle wandering<br>
+          Still unknown to pious <i>mens</i>.<br>
+          Running a gauntlet thee says.<br>
+          Remote this struggle<br>
+          Still to pious <i>mens</i>.<br>
+          Ergo, ten ears pursue <b>one</b><br>
+          Who guides <b>Us</b> to the builders<br>
+          Long-desired <i>nay</i> ultimate end.<br>  
         </td>
       </tr> 
       <tr>
