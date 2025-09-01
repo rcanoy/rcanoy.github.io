@@ -139,7 +139,7 @@
     <table style="width:100%">
       <tr>
         <td>02 Jul 2024</td>
-        <td><b>Biomedical Optics Express, Optica Publishing Group</b>, Status: Published</td>
+        <td><b><a href="https://orcid.org/0000-0003-2371-2900">Biomedical Optics Express, Optica Publishing Group</a></b>, Status: Published</td>
       </tr>
     </table>
     </p>
