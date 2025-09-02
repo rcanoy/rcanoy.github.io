@@ -11,7 +11,7 @@
       <a href="https://raymartjaycanoy.wixsite.com/recanoy">Ejan (母系図: 李韓) Canoy (父系図: 可汗回)</a><br>
     </h1>
     <h4 align='center'>
-      <b>Email</b>: <a href="mailto: recanoy@korea.ac.kr">recanoy@korea.ac.kr</a>; <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a><br>
+      <b>Email</b>: <a href="mailto: recanoy@korea.ac.kr">recanoy@korea.ac.kr</a> or <a href="mailto: recanoy@alum.up.edu.ph">recanoy@alum.up.edu.ph</a><br>
       <b>LinkedIn</b>: <a href="https://www.linkedin.com/in/recanoy">recanoy</a> | <b>Github</b>: <a href="https://github.com/rcanoy">rcanoy</a><br>
       <b>ORCiD</b>: <a href="https://orcid.org/0000-0003-2371-2900">0000-0003-2371-2900</a> | <b>Twitter</b>: <a href="https://twitter.com/canoyraymartjay">@canoyraymartjay</a>
     </h4>
