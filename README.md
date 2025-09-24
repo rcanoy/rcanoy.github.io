@@ -458,7 +458,7 @@
       </tr>
       <tr>
         <td>2022-Present</td>
-        <td><a href="https://www.kuaa.or.kr/index.do" style="color:rgb()">高麗大學校校友會</a></td>
+        <td><a href="https://www.kuaa.or.kr/index.do" style="color:cmyk(9%,100%,64%,48%)">高麗大學校校友會</a></td>
       </tr>
       <tr>
         <td>2020-2023</td>
