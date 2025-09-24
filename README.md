@@ -472,7 +472,7 @@
   </p>  
   <p> <!-- Start  -->
     <!-- Heading of the Travel Section -->
-    <h2 style="color:cmyk(9%,100%,64%,48%)">
+    <h2 style="olor:RGB(138,139,140)">
       Travel
     </h2>
     <!-- Start of the table -->
