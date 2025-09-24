@@ -457,6 +457,10 @@
         <td><b>Community Associate</b>, <i>American Chemical Society</i>, Columbus, OH, U.S.A.</td>
       </tr>
       <tr>
+        <td>2022-Present</td>
+        <td><a href="https://www.kuaa.or.kr/index.do">高麗大學校校友會</a></td>
+      </tr>
+      <tr>
         <td>2020-2023</td>
         <td><b>Member</b>, <i>The Society of Photo-Optical Instrumentation Engineers</i>, Bellingham, WA, U.S.A.</td>
       </tr>
