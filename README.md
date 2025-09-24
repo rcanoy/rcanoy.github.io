@@ -458,7 +458,7 @@
       </tr>
       <tr>
         <td>2022-Present</td>
-        <td><a href="https://www.kuaa.or.kr/index.do">高麗大學校校友會</a></td>
+        <td><a href="https://www.kuaa.or.kr/index.do" style="color:rgb()">高麗大學校校友會</a></td>
       </tr>
       <tr>
         <td>2020-2023</td>
@@ -472,7 +472,7 @@
   </p>  
   <p> <!-- Start  -->
     <!-- Heading of the Travel Section -->
-    <h2 style="color:rgb(138,139,140)">
+    <h2 style="color:device-cmyk(9%,100%,64%,48%)">
       Travel
     </h2>
     <!-- Start of the table -->
