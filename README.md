@@ -396,6 +396,14 @@
     <p>
       <table style="width:100%">
         <tr>
+          <td>2025</td>
+          <td>
+            <ul>
+              <li><b>Let's Read! Learning Japanese through Science & Technology-1</b>, <a href="https://www.coursera.org/account/accomplishments/certificate/GBBPV3RW918R">Coursera - UTokyo</a></li>
+            </ul>  
+          </td> 
+        </tr>  
+        <tr>
           <td>2023</td>
           <td>
             <ul>
