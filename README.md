@@ -92,7 +92,7 @@
           <td>2019</td>
           <td><b>National University of Ireland Galway</b>, Galway, Ireland
           <ul>
-            <li><b>PY - MSc (Medical Physics)</b></li>
+            <li><b><a href="https://drive.google.com/file/d/1p7D4S62hIZ0EVQPXbKRzlV1iUCaIv8x-/view?usp=sharing">PY - MSc (Medical Physics)</a></b></li>
           </ul>
           </td>
         </tr>
