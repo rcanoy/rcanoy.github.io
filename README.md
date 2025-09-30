@@ -84,7 +84,7 @@
           <td>2023</td>
           <td><b>Imperial College London</b>, London, United Kingdom
           <ul>
-            <li><b>Cancer Biology (Cancer Informatics) (MRes 1YFT)</b></li>
+            <li><b><a href="https://drive.google.com/file/d/1xKD_Ow5M8zrehwrBWuRCuov3Q5JOVGGy/view?usp=sharing">Cancer Biology (Cancer Informatics) (MRes 1YFT)</a></b></li>
           </ul>
           </td>
         </tr>
